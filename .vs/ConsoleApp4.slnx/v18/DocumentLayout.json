@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\source\\repos\\ConsoleApp4\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{539C9239-54A0-6FE0-FF1E-F8A4023404F9}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\ibrah\\source\\repos\\consoleapp4\\project1\\consoleapp4\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539C9239-54A0-6FE0-FF1E-F8A4023404F9}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539C9239-54A0-6FE0-FF1E-F8A4023404F9}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\ibrah\\source\\repos\\consoleapp4\\project1\\consoleapp4\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539C9239-54A0-6FE0-FF1E-F8A4023404F9}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539C9239-54A0-6FE0-FF1E-F8A4023404F9}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\ibrah\\source\\repos\\consoleapp4\\project1\\consoleapp4\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539C9239-54A0-6FE0-FF1E-F8A4023404F9}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539C9239-54A0-6FE0-FF1E-F8A4023404F9}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\ibrah\\source\\repos\\consoleapp4\\project1\\consoleapp4\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539C9239-54A0-6FE0-FF1E-F8A4023404F9}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539C9239-54A0-6FE0-FF1E-F8A4023404F9}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\ibrah\\source\\repos\\consoleapp4\\project1\\consoleapp4\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539C9239-54A0-6FE0-FF1E-F8A4023404F9}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539C9239-54A0-6FE0-FF1E-F8A4023404F9}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\ibrah\\source\\repos\\consoleapp4\\project1\\consoleapp4\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539C9239-54A0-6FE0-FF1E-F8A4023404F9}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539C9239-54A0-6FE0-FF1E-F8A4023404F9}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\ibrah\\source\\repos\\consoleapp4\\project1\\consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539C9239-54A0-6FE0-FF1E-F8A4023404F9}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539C9239-54A0-6FE0-FF1E-F8A4023404F9}|ConsoleApp4\\ConsoleApp4.csproj|c:\\users\\ibrah\\source\\repos\\consoleapp4\\project1\\consoleapp4\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539C9239-54A0-6FE0-FF1E-F8A4023404F9}|ConsoleApp4\\ConsoleApp4.csproj|solutionrelative:consoleapp4\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ConsoleApp4\\Project1\\ConsoleApp4\\Order.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Order.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ConsoleApp4\\Project1\\ConsoleApp4\\Order.cs",
+              "RelativeToolTip": "ConsoleApp4\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:09:51.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ConsoleApp4\\Project1\\ConsoleApp4\\Laptop.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Laptop.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ConsoleApp4\\Project1\\ConsoleApp4\\Laptop.cs",
+              "RelativeToolTip": "ConsoleApp4\\Laptop.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T17:05:52.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ConsoleApp4\\Project1\\ConsoleApp4\\Phone.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Phone.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ConsoleApp4\\Project1\\ConsoleApp4\\Phone.cs",
+              "RelativeToolTip": "ConsoleApp4\\Phone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T16:58:22.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ConsoleApp4\\Project1\\ConsoleApp4\\Product.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Product.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ConsoleApp4\\Project1\\ConsoleApp4\\Product.cs",
+              "RelativeToolTip": "ConsoleApp4\\Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T16:49:26.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ConsoleApp4\\Project1\\ConsoleApp4\\Admin.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Admin.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ConsoleApp4\\Project1\\ConsoleApp4\\Admin.cs",
+              "RelativeToolTip": "ConsoleApp4\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T16:48:16.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ConsoleApp4\\Project1\\ConsoleApp4\\Customers.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Customers.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ConsoleApp4\\Project1\\ConsoleApp4\\Customers.cs",
+              "RelativeToolTip": "ConsoleApp4\\Customers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T16:43:11.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ConsoleApp4\\Project1\\ConsoleApp4\\User.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\User.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ConsoleApp4\\Project1\\ConsoleApp4\\User.cs",
+              "RelativeToolTip": "ConsoleApp4\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T16:36:23.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ConsoleApp4\\Project1\\ConsoleApp4\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ConsoleApp4\\Project1\\ConsoleApp4\\Program.cs",
+              "RelativeToolTip": "ConsoleApp4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T16:30:09.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
