@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Runtime.InteropServices;
 using System.Text;
 
 namespace VMS
@@ -17,18 +18,22 @@ namespace VMS
             set
             {
                 if (_year > 1900) _year = value;
-                else Console.WriteLine("Year cannnot be lower than 1900!");
+                else if (_year<1900)Console.WriteLine("Year cannnot be lower than 1900!");
             }
         }
+     
         public Vehicle(string brand, string model, int year)
         {
-            Brand = brand;
-            Model = model;
-            Year = year;
+            Console.WriteLine("Brand:");
+            _brand = Console.ReadLine();
+            Console.WriteLine("Model:");
+            _model = Console.ReadLine();
+            Console.WriteLine("Year:");
+            _year = int.Parse(Console.ReadLine());
         }
         public virtual void GetInfo()
         {
-            Console.WriteLine($"Brand: {Brand}, Model: {Model}, Year:{Year}.");
+            Console.Write($"Brand: {Brand}, Model: {Model}, Year:{Year}, ");
         }
     }
 }

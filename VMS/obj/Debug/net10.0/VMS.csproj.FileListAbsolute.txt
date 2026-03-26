@@ -1,0 +1,15 @@
+C:\Users\ibrah\Desktop\VMS\VMS\bin\Debug\net10.0\VMS.exe
+C:\Users\ibrah\Desktop\VMS\VMS\bin\Debug\net10.0\VMS.deps.json
+C:\Users\ibrah\Desktop\VMS\VMS\bin\Debug\net10.0\VMS.runtimeconfig.json
+C:\Users\ibrah\Desktop\VMS\VMS\bin\Debug\net10.0\VMS.dll
+C:\Users\ibrah\Desktop\VMS\VMS\bin\Debug\net10.0\VMS.pdb
+C:\Users\ibrah\Desktop\VMS\VMS\obj\Debug\net10.0\VMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\Desktop\VMS\VMS\obj\Debug\net10.0\VMS.AssemblyInfoInputs.cache
+C:\Users\ibrah\Desktop\VMS\VMS\obj\Debug\net10.0\VMS.AssemblyInfo.cs
+C:\Users\ibrah\Desktop\VMS\VMS\obj\Debug\net10.0\VMS.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\VMS\VMS\obj\Debug\net10.0\VMS.sourcelink.json
+C:\Users\ibrah\Desktop\VMS\VMS\obj\Debug\net10.0\VMS.dll
+C:\Users\ibrah\Desktop\VMS\VMS\obj\Debug\net10.0\refint\VMS.dll
+C:\Users\ibrah\Desktop\VMS\VMS\obj\Debug\net10.0\VMS.pdb
+C:\Users\ibrah\Desktop\VMS\VMS\obj\Debug\net10.0\VMS.genruntimeconfig.cache
+C:\Users\ibrah\Desktop\VMS\VMS\obj\Debug\net10.0\ref\VMS.dll
