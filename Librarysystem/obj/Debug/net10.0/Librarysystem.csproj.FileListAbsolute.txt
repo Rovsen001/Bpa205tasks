@@ -1,0 +1,14 @@
+C:\Users\ibrah\source\repos\Librarysystem\Librarysystem\bin\Debug\net10.0\Librarysystem.exe
+C:\Users\ibrah\source\repos\Librarysystem\Librarysystem\bin\Debug\net10.0\Librarysystem.deps.json
+C:\Users\ibrah\source\repos\Librarysystem\Librarysystem\bin\Debug\net10.0\Librarysystem.runtimeconfig.json
+C:\Users\ibrah\source\repos\Librarysystem\Librarysystem\bin\Debug\net10.0\Librarysystem.dll
+C:\Users\ibrah\source\repos\Librarysystem\Librarysystem\bin\Debug\net10.0\Librarysystem.pdb
+C:\Users\ibrah\source\repos\Librarysystem\Librarysystem\obj\Debug\net10.0\Librarysystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\source\repos\Librarysystem\Librarysystem\obj\Debug\net10.0\Librarysystem.AssemblyInfoInputs.cache
+C:\Users\ibrah\source\repos\Librarysystem\Librarysystem\obj\Debug\net10.0\Librarysystem.AssemblyInfo.cs
+C:\Users\ibrah\source\repos\Librarysystem\Librarysystem\obj\Debug\net10.0\Librarysystem.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\Librarysystem\Librarysystem\obj\Debug\net10.0\Librarysystem.dll
+C:\Users\ibrah\source\repos\Librarysystem\Librarysystem\obj\Debug\net10.0\refint\Librarysystem.dll
+C:\Users\ibrah\source\repos\Librarysystem\Librarysystem\obj\Debug\net10.0\Librarysystem.pdb
+C:\Users\ibrah\source\repos\Librarysystem\Librarysystem\obj\Debug\net10.0\Librarysystem.genruntimeconfig.cache
+C:\Users\ibrah\source\repos\Librarysystem\Librarysystem\obj\Debug\net10.0\ref\Librarysystem.dll

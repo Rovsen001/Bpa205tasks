@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\source\\repos\\Librarysystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2784C55-3827-406A-AF89-AF82CD262A8E}|Librarysystem\\Librarysystem.csproj|c:\\users\\ibrah\\source\\repos\\librarysystem\\librarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2784C55-3827-406A-AF89-AF82CD262A8E}|Librarysystem\\Librarysystem.csproj|solutionrelative:librarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2784C55-3827-406A-AF89-AF82CD262A8E}|Librarysystem\\Librarysystem.csproj|c:\\users\\ibrah\\source\\repos\\librarysystem\\librarysystem\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2784C55-3827-406A-AF89-AF82CD262A8E}|Librarysystem\\Librarysystem.csproj|solutionrelative:librarysystem\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2784C55-3827-406A-AF89-AF82CD262A8E}|Librarysystem\\Librarysystem.csproj|c:\\users\\ibrah\\source\\repos\\librarysystem\\librarysystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2784C55-3827-406A-AF89-AF82CD262A8E}|Librarysystem\\Librarysystem.csproj|solutionrelative:librarysystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2784C55-3827-406A-AF89-AF82CD262A8E}|Librarysystem\\Librarysystem.csproj|c:\\users\\ibrah\\source\\repos\\librarysystem\\librarysystem\\bookcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2784C55-3827-406A-AF89-AF82CD262A8E}|Librarysystem\\Librarysystem.csproj|solutionrelative:librarysystem\\bookcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2784C55-3827-406A-AF89-AF82CD262A8E}|Librarysystem\\Librarysystem.csproj|c:\\users\\ibrah\\source\\repos\\librarysystem\\librarysystem\\iborrowable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2784C55-3827-406A-AF89-AF82CD262A8E}|Librarysystem\\Librarysystem.csproj|solutionrelative:librarysystem\\iborrowable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2784C55-3827-406A-AF89-AF82CD262A8E}|Librarysystem\\Librarysystem.csproj|c:\\users\\ibrah\\source\\repos\\librarysystem\\librarysystem\\librarybook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2784C55-3827-406A-AF89-AF82CD262A8E}|Librarysystem\\Librarysystem.csproj|solutionrelative:librarysystem\\librarybook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateTimeExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\Librarysystem\\Librarysystem\\DateTimeExtensions.cs",
+              "RelativeDocumentMoniker": "Librarysystem\\DateTimeExtensions.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\Librarysystem\\Librarysystem\\DateTimeExtensions.cs",
+              "RelativeToolTip": "Librarysystem\\DateTimeExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T11:13:18.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryBook.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\Librarysystem\\Librarysystem\\LibraryBook.cs",
+              "RelativeDocumentMoniker": "Librarysystem\\LibraryBook.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\Librarysystem\\Librarysystem\\LibraryBook.cs",
+              "RelativeToolTip": "Librarysystem\\LibraryBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T11:10:07.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBorrowable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\Librarysystem\\Librarysystem\\IBorrowable.cs",
+              "RelativeDocumentMoniker": "Librarysystem\\IBorrowable.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\Librarysystem\\Librarysystem\\IBorrowable.cs",
+              "RelativeToolTip": "Librarysystem\\IBorrowable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T11:09:08.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\Librarysystem\\Librarysystem\\Book.cs",
+              "RelativeDocumentMoniker": "Librarysystem\\Book.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\Librarysystem\\Librarysystem\\Book.cs",
+              "RelativeToolTip": "Librarysystem\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T11:04:11.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookCode.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\Librarysystem\\Librarysystem\\BookCode.cs",
+              "RelativeDocumentMoniker": "Librarysystem\\BookCode.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\Librarysystem\\Librarysystem\\BookCode.cs",
+              "RelativeToolTip": "Librarysystem\\BookCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T11:02:53.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\Librarysystem\\Librarysystem\\Program.cs",
+              "RelativeDocumentMoniker": "Librarysystem\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\Librarysystem\\Librarysystem\\Program.cs",
+              "RelativeToolTip": "Librarysystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T11:01:58.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
