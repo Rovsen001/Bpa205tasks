@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ibrah\\source\\repos\\Inventory\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0115C18A-5F95-0714-8BF5-0A34CA6B2711}|Inventory\\Inventory.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\inventory\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0115C18A-5F95-0714-8BF5-0A34CA6B2711}|Inventory\\Inventory.csproj|solutionrelative:inventory\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0115C18A-5F95-0714-8BF5-0A34CA6B2711}|Inventory\\Inventory.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\inventory\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0115C18A-5F95-0714-8BF5-0A34CA6B2711}|Inventory\\Inventory.csproj|solutionrelative:inventory\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\Inventory\\User.cs",
+              "RelativeDocumentMoniker": "Inventory\\User.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\Inventory\\User.cs",
+              "RelativeToolTip": "Inventory\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T20:45:25.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\Inventory\\Product.cs",
+              "RelativeDocumentMoniker": "Inventory\\Product.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\Inventory\\Product.cs",
+              "RelativeToolTip": "Inventory\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T20:43:19.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

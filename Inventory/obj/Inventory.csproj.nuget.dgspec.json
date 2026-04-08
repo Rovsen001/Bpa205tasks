@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ibrah\\source\\repos\\Inventory\\Inventory\\Inventory.csproj": {}
+    "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\Inventory\\Inventory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ibrah\\source\\repos\\Inventory\\Inventory\\Inventory.csproj": {
+    "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\Inventory\\Inventory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ibrah\\source\\repos\\Inventory\\Inventory\\Inventory.csproj",
+        "projectUniqueName": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\Inventory\\Inventory.csproj",
         "projectName": "Inventory",
-        "projectPath": "C:\\Users\\ibrah\\source\\repos\\Inventory\\Inventory\\Inventory.csproj",
+        "projectPath": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\Inventory\\Inventory.csproj",
         "packagesPath": "C:\\Users\\ibrah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ibrah\\source\\repos\\Inventory\\Inventory\\obj\\",
+        "outputPath": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\Inventory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -17,7 +17,7 @@ namespace Invantory
         }
         public override string ToString()
         {
-            return base.ToString();
+            return $"Name:{Name},Price:{Price}";
         }
     }
 }
