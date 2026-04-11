@@ -1,0 +1,14 @@
+C:\Users\ibrah\source\repos\Manager\Manager\bin\Debug\net10.0\Manager.exe
+C:\Users\ibrah\source\repos\Manager\Manager\bin\Debug\net10.0\Manager.deps.json
+C:\Users\ibrah\source\repos\Manager\Manager\bin\Debug\net10.0\Manager.runtimeconfig.json
+C:\Users\ibrah\source\repos\Manager\Manager\bin\Debug\net10.0\Manager.dll
+C:\Users\ibrah\source\repos\Manager\Manager\bin\Debug\net10.0\Manager.pdb
+C:\Users\ibrah\source\repos\Manager\Manager\obj\Debug\net10.0\Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\source\repos\Manager\Manager\obj\Debug\net10.0\Manager.AssemblyInfoInputs.cache
+C:\Users\ibrah\source\repos\Manager\Manager\obj\Debug\net10.0\Manager.AssemblyInfo.cs
+C:\Users\ibrah\source\repos\Manager\Manager\obj\Debug\net10.0\Manager.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\Manager\Manager\obj\Debug\net10.0\Manager.dll
+C:\Users\ibrah\source\repos\Manager\Manager\obj\Debug\net10.0\refint\Manager.dll
+C:\Users\ibrah\source\repos\Manager\Manager\obj\Debug\net10.0\Manager.pdb
+C:\Users\ibrah\source\repos\Manager\Manager\obj\Debug\net10.0\Manager.genruntimeconfig.cache
+C:\Users\ibrah\source\repos\Manager\Manager\obj\Debug\net10.0\ref\Manager.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\source\\repos\\Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5252FDEC-D589-4101-9013-4A0EF58E2324}|Manager\\Manager.csproj|c:\\users\\ibrah\\source\\repos\\manager\\manager\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5252FDEC-D589-4101-9013-4A0EF58E2324}|Manager\\Manager.csproj|solutionrelative:manager\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5252FDEC-D589-4101-9013-4A0EF58E2324}|Manager\\Manager.csproj|c:\\users\\ibrah\\source\\repos\\manager\\manager\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5252FDEC-D589-4101-9013-4A0EF58E2324}|Manager\\Manager.csproj|solutionrelative:manager\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5252FDEC-D589-4101-9013-4A0EF58E2324}|Manager\\Manager.csproj|c:\\users\\ibrah\\source\\repos\\manager\\manager\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5252FDEC-D589-4101-9013-4A0EF58E2324}|Manager\\Manager.csproj|solutionrelative:manager\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5252FDEC-D589-4101-9013-4A0EF58E2324}|Manager\\Manager.csproj|c:\\users\\ibrah\\source\\repos\\manager\\manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5252FDEC-D589-4101-9013-4A0EF58E2324}|Manager\\Manager.csproj|solutionrelative:manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\Manager\\Manager\\Product.cs",
+              "RelativeDocumentMoniker": "Manager\\Product.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\Manager\\Manager\\Product.cs",
+              "RelativeToolTip": "Manager\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T14:49:48.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\Manager\\Manager\\Manager.cs",
+              "RelativeDocumentMoniker": "Manager\\Manager.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\Manager\\Manager\\Manager.cs",
+              "RelativeToolTip": "Manager\\Manager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T14:45:26.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\Manager\\Manager\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Manager\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\Manager\\Manager\\BaseEntity.cs",
+              "RelativeToolTip": "Manager\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T14:42:42.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\Manager\\Manager\\Program.cs",
+              "RelativeDocumentMoniker": "Manager\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\Manager\\Manager\\Program.cs",
+              "RelativeToolTip": "Manager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T14:41:42.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
