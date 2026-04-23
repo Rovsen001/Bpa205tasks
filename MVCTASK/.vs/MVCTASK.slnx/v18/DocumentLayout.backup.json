@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\source\\repos\\MVCTASK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74C07AD1-0585-4012-BE33-24FEBCB1D109}|MVCTASK\\MVCTASK.csproj|c:\\users\\ibrah\\source\\repos\\mvctask\\mvctask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74C07AD1-0585-4012-BE33-24FEBCB1D109}|MVCTASK\\MVCTASK.csproj|solutionrelative:mvctask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C07AD1-0585-4012-BE33-24FEBCB1D109}|MVCTASK\\MVCTASK.csproj|c:\\users\\ibrah\\source\\repos\\mvctask\\mvctask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C07AD1-0585-4012-BE33-24FEBCB1D109}|MVCTASK\\MVCTASK.csproj|solutionrelative:mvctask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C07AD1-0585-4012-BE33-24FEBCB1D109}|MVCTASK\\MVCTASK.csproj|c:\\users\\ibrah\\source\\repos\\mvctask\\mvctask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74C07AD1-0585-4012-BE33-24FEBCB1D109}|MVCTASK\\MVCTASK.csproj|solutionrelative:mvctask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C07AD1-0585-4012-BE33-24FEBCB1D109}|MVCTASK\\MVCTASK.csproj|c:\\users\\ibrah\\source\\repos\\mvctask\\mvctask\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74C07AD1-0585-4012-BE33-24FEBCB1D109}|MVCTASK\\MVCTASK.csproj|solutionrelative:mvctask\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C07AD1-0585-4012-BE33-24FEBCB1D109}|MVCTASK\\MVCTASK.csproj|c:\\users\\ibrah\\source\\repos\\mvctask\\mvctask\\controllers\\contact\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C07AD1-0585-4012-BE33-24FEBCB1D109}|MVCTASK\\MVCTASK.csproj|solutionrelative:mvctask\\controllers\\contact\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C07AD1-0585-4012-BE33-24FEBCB1D109}|MVCTASK\\MVCTASK.csproj|c:\\users\\ibrah\\source\\repos\\mvctask\\mvctask\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C07AD1-0585-4012-BE33-24FEBCB1D109}|MVCTASK\\MVCTASK.csproj|solutionrelative:mvctask\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\MVCTASK\\MVCTASK\\Program.cs",
+              "RelativeDocumentMoniker": "MVCTASK\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\MVCTASK\\MVCTASK\\Program.cs",
+              "RelativeToolTip": "MVCTASK\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T16:34:27.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\MVCTASK\\MVCTASK\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCTASK\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\MVCTASK\\MVCTASK\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCTASK\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T16:23:13.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\MVCTASK\\MVCTASK\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCTASK\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\MVCTASK\\MVCTASK\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCTASK\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T16:21:40.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\MVCTASK\\MVCTASK\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCTASK\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\MVCTASK\\MVCTASK\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "MVCTASK\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T16:20:52.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\MVCTASK\\MVCTASK\\Controllers\\Contact\\ContactController.cs",
+              "RelativeDocumentMoniker": "MVCTASK\\Controllers\\Contact\\ContactController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\MVCTASK\\MVCTASK\\Controllers\\Contact\\ContactController.cs",
+              "RelativeToolTip": "MVCTASK\\Controllers\\Contact\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T16:19:09.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\MVCTASK\\MVCTASK\\Controllers\\Home\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCTASK\\Controllers\\Home\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\MVCTASK\\MVCTASK\\Controllers\\Home\\HomeController.cs",
+              "RelativeToolTip": "MVCTASK\\Controllers\\Home\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T16:18:37.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
