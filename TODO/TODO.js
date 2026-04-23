@@ -2,8 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   const body = document.body;
 
-  // container
-  const container = document.createElement("div");
+    const container = document.createElement("div");
   container.className = "container py-5 d-flex justify-content-center";
 
   const card = document.createElement("div");
@@ -29,13 +28,12 @@ document.addEventListener("DOMContentLoaded", function () {
   const ul = document.createElement("ul");
   ul.className = "list-group";
 
-  // structure
   body.append(container);
   container.append(card);
   card.append(title, form, ul);
   form.append(input, btnAdd);
 
-  // submit
+
   form.addEventListener("submit", function (e) {
     e.preventDefault();
 
@@ -61,12 +59,12 @@ document.addEventListener("DOMContentLoaded", function () {
     li.append(text, btnGroup);
     ul.append(li);
 
-    // done
+
     doneBtn.addEventListener("click", () => {
       text.classList.toggle("text-decoration-line-through");
     });
 
-    // remove
+  
     removeBtn.addEventListener("click", () => {
       li.remove();
     });
