@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LiquorShopTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d7ba9c6d1ec4fd132dc4da21d44da6f20fe1a35")]
 [assembly: System.Reflection.AssemblyProductAttribute("LiquorShopTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LiquorShopTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
