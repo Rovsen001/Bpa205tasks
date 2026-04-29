@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquorShopTask\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F6B02B19-890C-EBC3-D565-165749C230F9}|LiquorShopTask\\LiquorShopTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\liquorshoptask\\liquorshoptask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B02B19-890C-EBC3-D565-165749C230F9}|LiquorShopTask\\LiquorShopTask.csproj|solutionrelative:liquorshoptask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B02B19-890C-EBC3-D565-165749C230F9}|LiquorShopTask\\LiquorShopTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\liquorshoptask\\liquorshoptask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6B02B19-890C-EBC3-D565-165749C230F9}|LiquorShopTask\\LiquorShopTask.csproj|solutionrelative:liquorshoptask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F6B02B19-890C-EBC3-D565-165749C230F9}|LiquorShopTask\\LiquorShopTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\liquorshoptask\\liquorshoptask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F6B02B19-890C-EBC3-D565-165749C230F9}|LiquorShopTask\\LiquorShopTask.csproj|solutionrelative:liquorshoptask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6B02B19-890C-EBC3-D565-165749C230F9}|LiquorShopTask\\LiquorShopTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\liquorshoptask\\liquorshoptask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6B02B19-890C-EBC3-D565-165749C230F9}|LiquorShopTask\\LiquorShopTask.csproj|solutionrelative:liquorshoptask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6B02B19-890C-EBC3-D565-165749C230F9}|LiquorShopTask\\LiquorShopTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\liquorshoptask\\liquorshoptask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6B02B19-890C-EBC3-D565-165749C230F9}|LiquorShopTask\\LiquorShopTask.csproj|solutionrelative:liquorshoptask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6B02B19-890C-EBC3-D565-165749C230F9}|LiquorShopTask\\LiquorShopTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\liquorshoptask\\liquorshoptask\\models\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +23,12 @@
       "RelativeMoniker": "D:0:0:{F6B02B19-890C-EBC3-D565-165749C230F9}|LiquorShopTask\\LiquorShopTask.csproj|solutionrelative:liquorshoptask\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6B02B19-890C-EBC3-D565-165749C230F9}|LiquorShopTask\\LiquorShopTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\liquorshoptask\\liquorshoptask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6B02B19-890C-EBC3-D565-165749C230F9}|LiquorShopTask\\LiquorShopTask.csproj|solutionrelative:liquorshoptask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F6B02B19-890C-EBC3-D565-165749C230F9}|LiquorShopTask\\LiquorShopTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\liquorshoptask\\liquorshoptask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B02B19-890C-EBC3-D565-165749C230F9}|LiquorShopTask\\LiquorShopTask.csproj|solutionrelative:liquorshoptask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6B02B19-890C-EBC3-D565-165749C230F9}|LiquorShopTask\\LiquorShopTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\liquorshoptask\\liquorshoptask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6B02B19-890C-EBC3-D565-165749C230F9}|LiquorShopTask\\LiquorShopTask.csproj|solutionrelative:liquorshoptask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6B02B19-890C-EBC3-D565-165749C230F9}|LiquorShopTask\\LiquorShopTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\liquorshoptask\\liquorshoptask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B02B19-890C-EBC3-D565-165749C230F9}|LiquorShopTask\\LiquorShopTask.csproj|solutionrelative:liquorshoptask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6B02B19-890C-EBC3-D565-165749C230F9}|LiquorShopTask\\LiquorShopTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\liquorshoptask\\liquorshoptask\\liquorshoptask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 332,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -52,45 +52,46 @@
               "RelativeDocumentMoniker": "LiquorShopTask\\Models\\ViewModels\\HomeVM.cs",
               "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquorShopTask\\LiquorShopTask\\Models\\ViewModels\\HomeVM.cs",
               "RelativeToolTip": "LiquorShopTask\\Models\\ViewModels\\HomeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T11:17:19.207Z"
+              "WhenOpened": "2026-04-26T11:17:19.207Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquorShopTask\\LiquorShopTask\\Models\\Product.cs",
               "RelativeDocumentMoniker": "LiquorShopTask\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquorShopTask\\LiquorShopTask\\Models\\Product.cs",
               "RelativeToolTip": "LiquorShopTask\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-26T11:08:59.373Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquorShopTask\\LiquorShopTask\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "LiquorShopTask\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquorShopTask\\LiquorShopTask\\Controllers\\HomeController.cs",
               "RelativeToolTip": "LiquorShopTask\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-26T10:44:07.052Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquorShopTask\\LiquorShopTask\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "LiquorShopTask\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquorShopTask\\LiquorShopTask\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "LiquorShopTask\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJ0AAABgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-26T10:42:35.242Z",
               "EditorCaption": ""
@@ -103,33 +104,36 @@
               "RelativeDocumentMoniker": "LiquorShopTask\\Models\\Slider.cs",
               "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquorShopTask\\LiquorShopTask\\Models\\Slider.cs",
               "RelativeToolTip": "LiquorShopTask\\Models\\Slider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T11:11:08.034Z"
+              "WhenOpened": "2026-04-26T11:11:08.034Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquorShopTask\\LiquorShopTask\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "LiquorShopTask\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquorShopTask\\LiquorShopTask\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "LiquorShopTask\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAALcAAAAAAAAAAAAYwMYAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-26T10:39:37.553Z"
+              "WhenOpened": "2026-04-26T10:39:37.553Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquorShopTask\\LiquorShopTask\\Program.cs",
               "RelativeDocumentMoniker": "LiquorShopTask\\Program.cs",
               "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquorShopTask\\LiquorShopTask\\Program.cs",
               "RelativeToolTip": "LiquorShopTask\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T10:34:57.754Z"
+              "WhenOpened": "2026-04-26T10:34:57.754Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
