@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|c:\\users\\ibrah\\source\\repos\\proniatask\\proniatask\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|solutionrelative:proniatask\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|c:\\users\\ibrah\\source\\repos\\proniatask\\proniatask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|solutionrelative:proniatask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|c:\\users\\ibrah\\source\\repos\\proniatask\\proniatask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|solutionrelative:proniatask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|c:\\users\\ibrah\\source\\repos\\proniatask\\proniatask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|solutionrelative:proniatask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|c:\\users\\ibrah\\source\\repos\\proniatask\\proniatask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|solutionrelative:proniatask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|c:\\users\\ibrah\\source\\repos\\proniatask\\proniatask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|solutionrelative:proniatask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|c:\\users\\ibrah\\source\\repos\\proniatask\\proniatask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|solutionrelative:proniatask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|c:\\users\\ibrah\\source\\repos\\proniatask\\proniatask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|solutionrelative:proniatask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|c:\\users\\ibrah\\source\\repos\\proniatask\\proniatask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|solutionrelative:proniatask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|c:\\users\\ibrah\\source\\repos\\proniatask\\proniatask\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|solutionrelative:proniatask\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|c:\\users\\ibrah\\source\\repos\\proniatask\\proniatask\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|solutionrelative:proniatask\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|c:\\users\\ibrah\\source\\repos\\proniatask\\proniatask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|solutionrelative:proniatask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|c:\\users\\ibrah\\source\\repos\\proniatask\\proniatask\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|solutionrelative:proniatask\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|c:\\users\\ibrah\\source\\repos\\proniatask\\proniatask\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|solutionrelative:proniatask\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|c:\\users\\ibrah\\source\\repos\\proniatask\\proniatask\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|solutionrelative:proniatask\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|c:\\users\\ibrah\\source\\repos\\proniatask\\proniatask\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|solutionrelative:proniatask\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Migrations\\20260430125401_UpdateImagesTTableAndSlidersTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProniaTask\\Migrations\\20260430125401_UpdateImagesTTableAndSlidersTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|c:\\users\\ibrah\\source\\repos\\proniatask\\proniatask\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|solutionrelative:proniatask\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Migrations\\20260430113639_CreateDatabaseAndProductsTableAndSlidersTableCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProniaTask\\Migrations\\20260430113639_CreateDatabaseAndProductsTableAndSlidersTableCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|c:\\users\\ibrah\\source\\repos\\proniatask\\proniatask\\proniatask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14FAB44A-4B75-40F6-A296-0E2B5C0EBC1E}|ProniaTask\\ProniaTask.csproj|solutionrelative:proniatask\\proniatask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 435,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProniaTask\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "ProniaTask\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-30T11:21:32.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProniaTask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProniaTask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-30T10:26:52.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProniaTask\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "ProniaTask\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:20:47.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProniaTask\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProniaTask\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:51:44.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProniaTask\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProniaTask\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-30T10:31:09.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProniaTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProniaTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEcBAAAAAAAAAAAgwFgBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-30T10:19:16.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\appsettings.json",
+              "RelativeDocumentMoniker": "ProniaTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\appsettings.json",
+              "RelativeToolTip": "ProniaTask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-30T10:17:56.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProniaTask\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProniaTask\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-30T10:31:28.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Program.cs",
+              "RelativeDocumentMoniker": "ProniaTask\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Program.cs",
+              "RelativeToolTip": "ProniaTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:32:46.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ProniaTask\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "ProniaTask\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:24:59.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ProniaTask\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Models\\Category.cs",
+              "RelativeToolTip": "ProniaTask\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:38:39.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProniaTask\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Models\\Product.cs",
+              "RelativeToolTip": "ProniaTask\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:26:15.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "ProniaTask\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Models\\Slider.cs",
+              "RelativeToolTip": "ProniaTask\\Models\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:26:22.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "ProniaTask\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "ProniaTask\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:24:34.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "ProniaTask\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Models\\Tag.cs",
+              "RelativeToolTip": "ProniaTask\\Models\\Tag.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:39:06.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "ProniaTask\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Models\\Review.cs",
+              "RelativeToolTip": "ProniaTask\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:39:33.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260430125401_UpdateImagesTTableAndSlidersTable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Migrations\\20260430125401_UpdateImagesTTableAndSlidersTable.cs",
+              "RelativeDocumentMoniker": "ProniaTask\\Migrations\\20260430125401_UpdateImagesTTableAndSlidersTable.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Migrations\\20260430125401_UpdateImagesTTableAndSlidersTable.cs",
+              "RelativeToolTip": "ProniaTask\\Migrations\\20260430125401_UpdateImagesTTableAndSlidersTable.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwFYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T12:54:02.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Models\\Image.cs",
+              "RelativeDocumentMoniker": "ProniaTask\\Models\\Image.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Models\\Image.cs",
+              "RelativeToolTip": "ProniaTask\\Models\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:26:32.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260430113639_CreateDatabaseAndProductsTableAndSlidersTableCreated.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Migrations\\20260430113639_CreateDatabaseAndProductsTableAndSlidersTableCreated.cs",
+              "RelativeDocumentMoniker": "ProniaTask\\Migrations\\20260430113639_CreateDatabaseAndProductsTableAndSlidersTableCreated.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\Migrations\\20260430113639_CreateDatabaseAndProductsTableAndSlidersTableCreated.cs",
+              "RelativeToolTip": "ProniaTask\\Migrations\\20260430113639_CreateDatabaseAndProductsTableAndSlidersTableCreated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T11:36:39.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProniaTask",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\ProniaTask.csproj",
+              "RelativeDocumentMoniker": "ProniaTask\\ProniaTask.csproj",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaTask\\ProniaTask\\ProniaTask.csproj",
+              "RelativeToolTip": "ProniaTask\\ProniaTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-30T10:17:25.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

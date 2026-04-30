@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jXfAH5k9zwQ=",
+  "dgSpecHash": "hslGLnMrIyY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\LiquorDetailsTask.csproj",
+  "projectFilePath": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquorDetailsTask\\LiquorDetailsTask\\LiquorDetailsTask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ibrah\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ibrah\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -59,9 +59,9 @@
       "code": "NU1900",
       "level": "Warning",
       "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
-      "projectPath": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\LiquorDetailsTask.csproj",
+      "projectPath": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquorDetailsTask\\LiquorDetailsTask\\LiquorDetailsTask.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\LiquorDetailsTask.csproj",
+      "filePath": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquorDetailsTask\\LiquorDetailsTask\\LiquorDetailsTask.csproj",
       "targetGraphs": []
     }
   ]

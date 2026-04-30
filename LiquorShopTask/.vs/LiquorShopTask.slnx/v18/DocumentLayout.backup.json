@@ -42,8 +42,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 332,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -54,8 +58,7 @@
               "RelativeToolTip": "LiquorShopTask\\Models\\ViewModels\\HomeVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T11:17:19.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T11:17:19.207Z"
             },
             {
               "$type": "Document",
@@ -67,8 +70,7 @@
               "RelativeToolTip": "LiquorShopTask\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T11:08:59.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T11:08:59.373Z"
             },
             {
               "$type": "Document",
@@ -80,8 +82,7 @@
               "RelativeToolTip": "LiquorShopTask\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T10:44:07.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T10:44:07.052Z"
             },
             {
               "$type": "Document",
@@ -93,8 +94,7 @@
               "RelativeToolTip": "LiquorShopTask\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-26T10:42:35.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T10:42:35.242Z"
             },
             {
               "$type": "Document",
@@ -106,8 +106,7 @@
               "RelativeToolTip": "LiquorShopTask\\Models\\Slider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T11:11:08.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T11:11:08.034Z"
             },
             {
               "$type": "Document",
@@ -119,8 +118,7 @@
               "RelativeToolTip": "LiquorShopTask\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAALcAAAAAAAAAAAAYwMYAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-26T10:39:37.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T10:39:37.553Z"
             },
             {
               "$type": "Document",
@@ -130,7 +128,7 @@
               "RelativeDocumentMoniker": "LiquorShopTask\\Program.cs",
               "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquorShopTask\\LiquorShopTask\\Program.cs",
               "RelativeToolTip": "LiquorShopTask\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-26T10:34:57.754Z",
               "EditorCaption": ""
@@ -146,16 +144,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-04-26T10:34:25.93Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 68,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

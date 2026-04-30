@@ -2995,11 +2995,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\LiquorDetailsTask.csproj",
+      "projectUniqueName": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquorDetailsTask\\LiquorDetailsTask\\LiquorDetailsTask.csproj",
       "projectName": "LiquorDetailsTask",
-      "projectPath": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\LiquorDetailsTask.csproj",
+      "projectPath": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquorDetailsTask\\LiquorDetailsTask\\LiquorDetailsTask.csproj",
       "packagesPath": "C:\\Users\\ibrah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\obj\\",
+      "outputPath": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquorDetailsTask\\LiquorDetailsTask\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
