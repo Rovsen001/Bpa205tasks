@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LiquarShopDataTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+241546d434dccffe1a3900ddc417d5108390bbf1")]
 [assembly: System.Reflection.AssemblyProductAttribute("LiquarShopDataTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LiquarShopDataTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

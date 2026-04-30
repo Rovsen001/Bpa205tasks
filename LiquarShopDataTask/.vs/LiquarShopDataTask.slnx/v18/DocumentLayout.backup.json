@@ -1,58 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\",
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquarShopDataTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|c:\\users\\ibrah\\source\\repos\\liquarshopdatatask\\liquarshopdatatask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|solutionrelative:liquarshopdatatask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Migrations\\20260429064509_ProductsTableUpdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LiquarShopDataTask\\Migrations\\20260429064509_ProductsTableUpdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|c:\\users\\ibrah\\source\\repos\\liquarshopdatatask\\liquarshopdatatask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|solutionrelative:liquarshopdatatask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Migrations\\20260429064400_ProductTableUpdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LiquarShopDataTask\\Migrations\\20260429064400_ProductTableUpdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|c:\\users\\ibrah\\source\\repos\\liquarshopdatatask\\liquarshopdatatask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|solutionrelative:liquarshopdatatask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|c:\\users\\ibrah\\source\\repos\\liquarshopdatatask\\liquarshopdatatask\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|solutionrelative:liquarshopdatatask\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|c:\\users\\ibrah\\source\\repos\\liquarshopdatatask\\liquarshopdatatask\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|solutionrelative:liquarshopdatatask\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|c:\\users\\ibrah\\source\\repos\\liquarshopdatatask\\liquarshopdatatask\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|solutionrelative:liquarshopdatatask\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|c:\\users\\ibrah\\source\\repos\\liquarshopdatatask\\liquarshopdatatask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\liquarshopdatatask\\liquarshopdatatask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|solutionrelative:liquarshopdatatask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|c:\\users\\ibrah\\source\\repos\\liquarshopdatatask\\liquarshopdatatask\\models\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|solutionrelative:liquarshopdatatask\\models\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\liquarshopdatatask\\liquarshopdatatask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|solutionrelative:liquarshopdatatask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|c:\\users\\ibrah\\source\\repos\\liquarshopdatatask\\liquarshopdatatask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\liquarshopdatatask\\liquarshopdatatask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|solutionrelative:liquarshopdatatask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|c:\\users\\ibrah\\source\\repos\\liquarshopdatatask\\liquarshopdatatask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\liquarshopdatatask\\liquarshopdatatask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|solutionrelative:liquarshopdatatask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|c:\\users\\ibrah\\source\\repos\\liquarshopdatatask\\liquarshopdatatask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|solutionrelative:liquarshopdatatask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\liquarshopdatatask\\liquarshopdatatask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|solutionrelative:liquarshopdatatask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\liquarshopdatatask\\liquarshopdatatask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|solutionrelative:liquarshopdatatask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Migrations\\20260429064400_ProductTableUpdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\liquarshopdatatask\\liquarshopdatatask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|solutionrelative:liquarshopdatatask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\liquarshopdatatask\\liquarshopdatatask\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|solutionrelative:liquarshopdatatask\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\liquarshopdatatask\\liquarshopdatatask\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|solutionrelative:liquarshopdatatask\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\liquarshopdatatask\\liquarshopdatatask\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|solutionrelative:liquarshopdatatask\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\liquarshopdatatask\\liquarshopdatatask\\models\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|solutionrelative:liquarshopdatatask\\models\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\liquarshopdatatask\\liquarshopdatatask\\migrations\\20260429064509_productstableupdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE18322-9B7F-3C2D-05D1-280DA5F36C55}|LiquarShopDataTask\\LiquarShopDataTask.csproj|solutionrelative:liquarshopdatatask\\migrations\\20260429064509_productstableupdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,106 +61,152 @@
       "DocumentGroups": [
         {
           "DockedWidth": 435,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20260429064509_ProductsTableUpdated.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Migrations\\20260429064509_ProductsTableUpdated.cs",
-              "RelativeDocumentMoniker": "LiquarShopDataTask\\Migrations\\20260429064509_ProductsTableUpdated.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Migrations\\20260429064509_ProductsTableUpdated.cs",
-              "RelativeToolTip": "LiquarShopDataTask\\Migrations\\20260429064509_ProductsTableUpdated.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T06:45:10.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20260429064400_ProductTableUpdated.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Migrations\\20260429064400_ProductTableUpdated.cs",
-              "RelativeDocumentMoniker": "LiquarShopDataTask\\Migrations\\20260429064400_ProductTableUpdated.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Migrations\\20260429064400_ProductTableUpdated.cs",
-              "RelativeToolTip": "LiquarShopDataTask\\Migrations\\20260429064400_ProductTableUpdated.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T06:44:00.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquarShopDataTask\\LiquarShopDataTask\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "LiquarShopDataTask\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "LiquarShopDataTask\\Views\\Home\\Index.cshtml*",
-              "ViewState": "AgIAAIoAAAAAAAAAAAAAAJgAAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquarShopDataTask\\LiquarShopDataTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LiquarShopDataTask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAJgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-28T19:34:38.187Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "LiquarShopDataTask\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "LiquarShopDataTask\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-28T19:36:33.215Z",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquarShopDataTask\\LiquarShopDataTask\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "LiquarShopDataTask\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquarShopDataTask\\LiquarShopDataTask\\Models\\Product.cs",
+              "RelativeToolTip": "LiquarShopDataTask\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T16:48:42.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquarShopDataTask\\LiquarShopDataTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LiquarShopDataTask\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquarShopDataTask\\LiquarShopDataTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LiquarShopDataTask\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T16:58:35.388Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "LiquarShopDataTask\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Models\\Product.cs",
-              "RelativeToolTip": "LiquarShopDataTask\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquarShopDataTask\\LiquarShopDataTask\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LiquarShopDataTask\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquarShopDataTask\\LiquarShopDataTask\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "LiquarShopDataTask\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T16:48:42.547Z",
+              "WhenOpened": "2026-04-28T16:05:08.605Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Image.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Models\\Image.cs",
-              "RelativeDocumentMoniker": "LiquarShopDataTask\\Models\\Image.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Models\\Image.cs",
-              "RelativeToolTip": "LiquarShopDataTask\\Models\\Image.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T19:31:41.159Z",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquarShopDataTask\\LiquarShopDataTask\\appsettings.json",
+              "RelativeDocumentMoniker": "LiquarShopDataTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquarShopDataTask\\LiquarShopDataTask\\appsettings.json",
+              "RelativeToolTip": "LiquarShopDataTask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-28T19:53:04.561Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquarShopDataTask\\LiquarShopDataTask\\Program.cs",
+              "RelativeDocumentMoniker": "LiquarShopDataTask\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquarShopDataTask\\LiquarShopDataTask\\Program.cs",
+              "RelativeToolTip": "LiquarShopDataTask\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:34:10.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquarShopDataTask\\LiquarShopDataTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LiquarShopDataTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquarShopDataTask\\LiquarShopDataTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LiquarShopDataTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T19:36:33.215Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Slider.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Models\\Slider.cs",
-              "RelativeDocumentMoniker": "LiquarShopDataTask\\Models\\Slider.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Models\\Slider.cs",
-              "RelativeToolTip": "LiquarShopDataTask\\Models\\Slider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Title": "20260429064400_ProductTableUpdated.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Migrations\\20260429064400_ProductTableUpdated.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Migrations\\20260429064400_ProductTableUpdated.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Migrations\\20260429064400_ProductTableUpdated.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Migrations\\20260429064400_ProductTableUpdated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T16:52:22.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-29T06:44:00.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260429064509_ProductsTableUpdated.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquarShopDataTask\\LiquarShopDataTask\\Migrations\\20260429064509_ProductsTableUpdated.cs",
+              "RelativeDocumentMoniker": "LiquarShopDataTask\\Migrations\\20260429064509_ProductsTableUpdated.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquarShopDataTask\\LiquarShopDataTask\\Migrations\\20260429064509_ProductsTableUpdated.cs",
+              "RelativeToolTip": "LiquarShopDataTask\\Migrations\\20260429064509_ProductsTableUpdated.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T06:45:10.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquarShopDataTask\\LiquarShopDataTask\\Models\\Image.cs",
+              "RelativeDocumentMoniker": "LiquarShopDataTask\\Models\\Image.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquarShopDataTask\\LiquarShopDataTask\\Models\\Image.cs",
+              "RelativeToolTip": "LiquarShopDataTask\\Models\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T19:31:41.159Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquarShopDataTask\\LiquarShopDataTask\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "LiquarShopDataTask\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquarShopDataTask\\LiquarShopDataTask\\Models\\Slider.cs",
+              "RelativeToolTip": "LiquarShopDataTask\\Models\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T16:52:22.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "HomeVM.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Models\\ViewModels\\HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquarShopDataTask\\LiquarShopDataTask\\Models\\ViewModels\\HomeVM.cs",
               "RelativeDocumentMoniker": "LiquarShopDataTask\\Models\\ViewModels\\HomeVM.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Models\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquarShopDataTask\\LiquarShopDataTask\\Models\\ViewModels\\HomeVM.cs",
               "RelativeToolTip": "LiquarShopDataTask\\Models\\ViewModels\\HomeVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -169,64 +214,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Models\\Base\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquarShopDataTask\\LiquarShopDataTask\\Models\\Base\\BaseEntity.cs",
               "RelativeDocumentMoniker": "LiquarShopDataTask\\Models\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\LiquarShopDataTask\\LiquarShopDataTask\\Models\\Base\\BaseEntity.cs",
               "RelativeToolTip": "LiquarShopDataTask\\Models\\Base\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T06:25:06.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Program.cs",
-              "RelativeDocumentMoniker": "LiquarShopDataTask\\Program.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Program.cs",
-              "RelativeToolTip": "LiquarShopDataTask\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T19:34:10.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "LiquarShopDataTask\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "LiquarShopDataTask\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T16:05:08.605Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\appsettings.json",
-              "RelativeDocumentMoniker": "LiquarShopDataTask\\appsettings.json",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\appsettings.json",
-              "RelativeToolTip": "LiquarShopDataTask\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-28T19:53:04.561Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "LiquarShopDataTask\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquarShopDataTask\\LiquarShopDataTask\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "LiquarShopDataTask\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T16:58:35.388Z"
+              "WhenOpened": "2026-04-29T06:25:06.128Z"
             }
           ]
         },

@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|c:\\users\\ibrah\\source\\repos\\liquordetailstask\\liquordetailstask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|solutionrelative:liquordetailstask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|c:\\users\\ibrah\\source\\repos\\liquordetailstask\\liquordetailstask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|solutionrelative:liquordetailstask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|c:\\users\\ibrah\\source\\repos\\liquordetailstask\\liquordetailstask\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|solutionrelative:liquordetailstask\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|c:\\users\\ibrah\\source\\repos\\liquordetailstask\\liquordetailstask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|solutionrelative:liquordetailstask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|c:\\users\\ibrah\\source\\repos\\liquordetailstask\\liquordetailstask\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|solutionrelative:liquordetailstask\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|c:\\users\\ibrah\\source\\repos\\liquordetailstask\\liquordetailstask\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|solutionrelative:liquordetailstask\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|c:\\users\\ibrah\\source\\repos\\liquordetailstask\\liquordetailstask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|solutionrelative:liquordetailstask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|c:\\users\\ibrah\\source\\repos\\liquordetailstask\\liquordetailstask\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|solutionrelative:liquordetailstask\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|c:\\users\\ibrah\\source\\repos\\liquordetailstask\\liquordetailstask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|solutionrelative:liquordetailstask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|c:\\users\\ibrah\\source\\repos\\liquordetailstask\\liquordetailstask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|solutionrelative:liquordetailstask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|c:\\users\\ibrah\\source\\repos\\liquordetailstask\\liquordetailstask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|solutionrelative:liquordetailstask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|c:\\users\\ibrah\\source\\repos\\liquordetailstask\\liquordetailstask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|solutionrelative:liquordetailstask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|c:\\users\\ibrah\\source\\repos\\liquordetailstask\\liquordetailstask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|solutionrelative:liquordetailstask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|c:\\users\\ibrah\\source\\repos\\liquordetailstask\\liquordetailstask\\models\\images.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|solutionrelative:liquordetailstask\\models\\images.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|c:\\users\\ibrah\\source\\repos\\liquordetailstask\\liquordetailstask\\migrations\\20260429173336_createdatabaseandproductstableandsliderstableandimagestablecreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|solutionrelative:liquordetailstask\\migrations\\20260429173336_createdatabaseandproductstableandsliderstableandimagestablecreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|c:\\users\\ibrah\\source\\repos\\liquordetailstask\\liquordetailstask\\liquordetailstask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3202F74E-6BC1-2698-2964-55C7C93AB390}|LiquorDetailsTask\\LiquorDetailsTask.csproj|solutionrelative:liquordetailstask\\liquordetailstask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 435,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "LiquorDetailsTask\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "LiquorDetailsTask\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-30T07:22:59.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "LiquorDetailsTask\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "LiquorDetailsTask\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T16:14:55.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LiquorDetailsTask\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LiquorDetailsTask\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T16:06:24.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "LiquorDetailsTask\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\Models\\Product.cs",
+              "RelativeToolTip": "LiquorDetailsTask\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T16:11:01.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LiquorDetailsTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LiquorDetailsTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGEAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T16:14:20.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LiquorDetailsTask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LiquorDetailsTask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJYAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T16:14:39.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "LiquorDetailsTask\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "LiquorDetailsTask\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T16:11:23.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LiquorDetailsTask\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "LiquorDetailsTask\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T16:07:37.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "LiquorDetailsTask\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\Models\\Slider.cs",
+              "RelativeToolTip": "LiquorDetailsTask\\Models\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T16:13:35.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\Program.cs",
+              "RelativeDocumentMoniker": "LiquorDetailsTask\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\Program.cs",
+              "RelativeToolTip": "LiquorDetailsTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T16:03:16.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\appsettings.json",
+              "RelativeDocumentMoniker": "LiquorDetailsTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\appsettings.json",
+              "RelativeToolTip": "LiquorDetailsTask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-29T16:04:32.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LiquorDetailsTask\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LiquorDetailsTask\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T16:36:27.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LiquorDetailsTask\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LiquorDetailsTask\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T17:11:10.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Images.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\Models\\Images.cs",
+              "RelativeDocumentMoniker": "LiquorDetailsTask\\Models\\Images.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\Models\\Images.cs",
+              "RelativeToolTip": "LiquorDetailsTask\\Models\\Images.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T16:13:23.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260429173336_CreateDatabaseAndProductsTableAndSlidersTableAndImagesTableCreated.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\Migrations\\20260429173336_CreateDatabaseAndProductsTableAndSlidersTableAndImagesTableCreated.cs",
+              "RelativeDocumentMoniker": "LiquorDetailsTask\\Migrations\\20260429173336_CreateDatabaseAndProductsTableAndSlidersTableAndImagesTableCreated.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\Migrations\\20260429173336_CreateDatabaseAndProductsTableAndSlidersTableAndImagesTableCreated.cs",
+              "RelativeToolTip": "LiquorDetailsTask\\Migrations\\20260429173336_CreateDatabaseAndProductsTableAndSlidersTableAndImagesTableCreated.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T17:33:36.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LiquorDetailsTask.csproj",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\LiquorDetailsTask.csproj",
+              "RelativeDocumentMoniker": "LiquorDetailsTask\\LiquorDetailsTask.csproj",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\LiquorDetailsTask\\LiquorDetailsTask\\LiquorDetailsTask.csproj",
+              "RelativeToolTip": "LiquorDetailsTask\\LiquorDetailsTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-29T16:05:09.628Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
