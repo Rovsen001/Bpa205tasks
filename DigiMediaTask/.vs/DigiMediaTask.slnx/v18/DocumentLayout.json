@@ -1,0 +1,367 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|c:\\users\\ibrah\\source\\repos\\digimediatask\\digimediatask\\areas\\admin\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|solutionrelative:digimediatask\\areas\\admin\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|c:\\users\\ibrah\\source\\repos\\digimediatask\\digimediatask\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|solutionrelative:digimediatask\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|c:\\users\\ibrah\\source\\repos\\digimediatask\\digimediatask\\areas\\admin\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|solutionrelative:digimediatask\\areas\\admin\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|c:\\users\\ibrah\\source\\repos\\digimediatask\\digimediatask\\areas\\admin\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|solutionrelative:digimediatask\\areas\\admin\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|c:\\users\\ibrah\\source\\repos\\digimediatask\\digimediatask\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|solutionrelative:digimediatask\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|c:\\users\\ibrah\\source\\repos\\digimediatask\\digimediatask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|solutionrelative:digimediatask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|c:\\users\\ibrah\\source\\repos\\digimediatask\\digimediatask\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|solutionrelative:digimediatask\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|c:\\users\\ibrah\\source\\repos\\digimediatask\\digimediatask\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|solutionrelative:digimediatask\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|c:\\users\\ibrah\\source\\repos\\digimediatask\\digimediatask\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|solutionrelative:digimediatask\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|c:\\users\\ibrah\\source\\repos\\digimediatask\\digimediatask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|solutionrelative:digimediatask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|c:\\users\\ibrah\\source\\repos\\digimediatask\\digimediatask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|solutionrelative:digimediatask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|c:\\users\\ibrah\\source\\repos\\digimediatask\\digimediatask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|solutionrelative:digimediatask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|c:\\users\\ibrah\\source\\repos\\digimediatask\\digimediatask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|solutionrelative:digimediatask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|c:\\users\\ibrah\\source\\repos\\digimediatask\\digimediatask\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|solutionrelative:digimediatask\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|c:\\users\\ibrah\\source\\repos\\digimediatask\\digimediatask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|solutionrelative:digimediatask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|c:\\users\\ibrah\\source\\repos\\digimediatask\\digimediatask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|solutionrelative:digimediatask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|c:\\users\\ibrah\\source\\repos\\digimediatask\\digimediatask\\migrations\\20260503093944_createddatebaseandprojecttablecreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|solutionrelative:digimediatask\\migrations\\20260503093944_createddatebaseandprojecttablecreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|c:\\users\\ibrah\\source\\repos\\digimediatask\\digimediatask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|solutionrelative:digimediatask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|c:\\users\\ibrah\\source\\repos\\digimediatask\\digimediatask\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|solutionrelative:digimediatask\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|c:\\users\\ibrah\\source\\repos\\digimediatask\\digimediatask\\digimediatask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|solutionrelative:digimediatask\\digimediatask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|c:\\users\\ibrah\\source\\repos\\digimediatask\\digimediatask\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|solutionrelative:digimediatask\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 435,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Areas\\Admin\\Views\\Project\\Create.cshtml",
+              "RelativeDocumentMoniker": "DigiMediaTask\\Areas\\Admin\\Views\\Project\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Areas\\Admin\\Views\\Project\\Create.cshtml",
+              "RelativeToolTip": "DigiMediaTask\\Areas\\Admin\\Views\\Project\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-03T11:32:00.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Areas\\Admin\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "DigiMediaTask\\Areas\\Admin\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Areas\\Admin\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "DigiMediaTask\\Areas\\Admin\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T11:10:52.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "DigiMediaTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "DigiMediaTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAEABAAAAAAAAAADwv1oBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-03T09:11:13.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Areas\\Admin\\Views\\Project\\Index.cshtml",
+              "RelativeDocumentMoniker": "DigiMediaTask\\Areas\\Admin\\Views\\Project\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Areas\\Admin\\Views\\Project\\Index.cshtml",
+              "RelativeToolTip": "DigiMediaTask\\Areas\\Admin\\Views\\Project\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-03T09:17:15.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DigiMediaTask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DigiMediaTask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAAAF0BAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-03T08:59:37.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "DigiMediaTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "DigiMediaTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T09:09:46.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DigiMediaTask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DigiMediaTask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAcwG8AAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-03T09:11:42.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DigiMediaTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DigiMediaTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-03T09:12:11.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DigiMediaTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DigiMediaTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-03T09:11:57.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DigiMediaTask\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DigiMediaTask\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-03T08:49:36.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DigiMediaTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DigiMediaTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-03T08:49:18.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DigiMediaTask\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DigiMediaTask\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-03T08:50:08.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DigiMediaTask\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DigiMediaTask\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T08:49:05.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "DigiMediaTask\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Models\\Project.cs",
+              "RelativeToolTip": "DigiMediaTask\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T08:57:08.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Program.cs",
+              "RelativeDocumentMoniker": "DigiMediaTask\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Program.cs",
+              "RelativeToolTip": "DigiMediaTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T09:22:39.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\appsettings.json",
+              "RelativeDocumentMoniker": "DigiMediaTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\appsettings.json",
+              "RelativeToolTip": "DigiMediaTask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-03T09:30:41.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260503093944_CreatedDatebaseAndProjectTableCreated.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Migrations\\20260503093944_CreatedDatebaseAndProjectTableCreated.cs",
+              "RelativeDocumentMoniker": "DigiMediaTask\\Migrations\\20260503093944_CreatedDatebaseAndProjectTableCreated.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Migrations\\20260503093944_CreatedDatebaseAndProjectTableCreated.cs",
+              "RelativeToolTip": "DigiMediaTask\\Migrations\\20260503093944_CreatedDatebaseAndProjectTableCreated.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T09:39:44.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DigiMediaTask\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DigiMediaTask\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T08:50:27.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "DigiMediaTask\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "DigiMediaTask\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T08:58:29.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DigiMediaTask.csproj",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\DigiMediaTask.csproj",
+              "RelativeDocumentMoniker": "DigiMediaTask\\DigiMediaTask.csproj",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\DigiMediaTask.csproj",
+              "RelativeToolTip": "DigiMediaTask\\DigiMediaTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-03T08:47:45.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "DigiMediaTask\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\DigiMediaTask\\DigiMediaTask\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "DigiMediaTask\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-03T08:47:16.335Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
