@@ -35,6 +35,9 @@
                         }
                     }
                     <td>
+                        <a asp-controller="Project" asp-action="Update" asp-route-id="@Project.Id" class="btn btn-warning"> Update</a>
+                    </td>
+                    <td>
 
                         @{
                             if (Project.IsDeleted == false)

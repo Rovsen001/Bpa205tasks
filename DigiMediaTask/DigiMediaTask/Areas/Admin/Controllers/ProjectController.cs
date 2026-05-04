@@ -44,5 +44,22 @@ namespace DigiMediaTask.Areas.Admin.Controllers
             _db.SaveChanges();
             return RedirectToAction(nameof(Index));
         }
+        public IActionResult Update(int id)
+        {
+            Project project = _db.Projects.Find(id);
+            return View(project);
+        }
+        [HttpPost]
+        public IActionResult Update(Project project)
+        {
+            if(!ModelState.IsValid) return View();
+            Project Project=_db.Projects.Find(project.Id);
+            Project.Profession = project.Profession;
+            Project.Category = project.Category;
+            Project.ImageUrl = project.ImageUrl;
+            _db.SaveChanges();
+            return RedirectToAction(nameof(Index));
+        }
+        
     }
 }
