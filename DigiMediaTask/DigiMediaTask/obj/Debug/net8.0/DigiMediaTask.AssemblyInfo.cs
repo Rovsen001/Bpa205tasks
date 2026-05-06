@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DigiMediaTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1959e770556dfb0b26ea57a5bb9ff7273815436c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18eda06263c64fefded5012ae4fcb8899fce1ecb")]
 [assembly: System.Reflection.AssemblyProductAttribute("DigiMediaTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DigiMediaTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

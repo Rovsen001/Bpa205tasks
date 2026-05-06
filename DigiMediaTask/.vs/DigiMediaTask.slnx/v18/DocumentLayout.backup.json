@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\DigiMediaTask\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\digimediatask\\digimediatask\\areas\\admin\\views\\project\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|solutionrelative:digimediatask\\areas\\admin\\views\\project\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\digimediatask\\digimediatask\\areas\\admin\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|solutionrelative:digimediatask\\areas\\admin\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\digimediatask\\digimediatask\\areas\\admin\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|solutionrelative:digimediatask\\areas\\admin\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\digimediatask\\digimediatask\\areas\\admin\\views\\project\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|solutionrelative:digimediatask\\areas\\admin\\views\\project\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD5F1438-A100-552D-DD21-162A90EEE13D}|DigiMediaTask\\DigiMediaTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\digimediatask\\digimediatask\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 435,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\DigiMediaTask\\DigiMediaTask\\Areas\\Admin\\Views\\Project\\Update.cshtml",
               "RelativeDocumentMoniker": "DigiMediaTask\\Areas\\Admin\\Views\\Project\\Update.cshtml",
@@ -119,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\DigiMediaTask\\DigiMediaTask\\Areas\\Admin\\Views\\Project\\Create.cshtml",
               "RelativeDocumentMoniker": "DigiMediaTask\\Areas\\Admin\\Views\\Project\\Create.cshtml",
@@ -127,8 +127,7 @@
               "RelativeToolTip": "DigiMediaTask\\Areas\\Admin\\Views\\Project\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-03T11:32:00.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-03T11:32:00.136Z"
             },
             {
               "$type": "Document",
@@ -152,12 +151,11 @@
               "RelativeToolTip": "DigiMediaTask\\Models\\Project.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T08:57:08.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-03T08:57:08.794Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\DigiMediaTask\\DigiMediaTask\\Areas\\Admin\\Views\\Project\\Index.cshtml",
               "RelativeDocumentMoniker": "DigiMediaTask\\Areas\\Admin\\Views\\Project\\Index.cshtml",
@@ -178,8 +176,7 @@
               "RelativeToolTip": "DigiMediaTask\\Areas\\Admin\\Controllers\\ProjectController.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAkwD8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T11:10:52.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-03T11:10:52.22Z"
             },
             {
               "$type": "Document",
