@@ -1,0 +1,8 @@
+wwwroot\admin\assets\demo\chart-area-demo.js
+wwwroot\admin\assets\demo\chart-bar-demo.js
+wwwroot\admin\assets\demo\chart-pie-demo.js
+wwwroot\admin\assets\demo\datatables-demo.js
+wwwroot\admin\assets\img\error-404-monochrome.svg
+wwwroot\admin\css\styles.css
+wwwroot\admin\js\datatables-simple-demo.js
+wwwroot\admin\js\scripts.js

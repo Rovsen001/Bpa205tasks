@@ -1,85 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\",
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\admincrudtask\\admincrudtask\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\admincrudtask\\admincrudtask\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\admincrudtask\\admincrudtask\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\admincrudtask\\admincrudtask\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\admincrudtask\\admincrudtask\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\admincrudtask\\admincrudtask\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\admincrudtask\\admincrudtask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\admincrudtask\\admincrudtask\\extensions\\fileuploadextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\extensions\\fileuploadextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\admincrudtask\\admincrudtask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\admincrudtask\\admincrudtask\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\admincrudtask\\admincrudtask\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\admincrudtask\\admincrudtask\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\admincrudtask\\admincrudtask\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\admincrudtask\\admincrudtask\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\admincrudtask\\admincrudtask\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\admincrudtask\\admincrudtask\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\admincrudtask\\admincrudtask\\admincrudtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\admincrudtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\admincrudtask\\admincrudtask\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\admincrudtask\\admincrudtask\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\admincrudtask\\admincrudtask\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\admincrudtask\\admincrudtask\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\admincrudtask\\admincrudtask\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\admincrudtask\\admincrudtask\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\admincrudtask\\admincrudtask\\admincrudtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\admincrudtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\admincrudtask\\admincrudtask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\admincrudtask\\admincrudtask\\extensions\\fileuploadextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\extensions\\fileuploadextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\admincrudtask\\admincrudtask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\admincrudtask\\admincrudtask\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\admincrudtask\\admincrudtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\admincrudtask\\admincrudtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\admincrudtask\\admincrudtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\admincrudtask\\admincrudtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\admincrudtask\\admincrudtask\\migrations\\20260505164732_createddatabaseandsliderstablecreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\admincrudtask\\admincrudtask\\migrations\\20260505164732_createddatabaseandsliderstablecreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\migrations\\20260505164732_createddatabaseandsliderstablecreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\admincrudtask\\admincrudtask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\admincrudtask\\admincrudtask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\admincrudtask\\admincrudtask\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\admincrudtask\\admincrudtask\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\admincrudtask\\admincrudtask\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\admincrudtask\\admincrudtask\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{890D1DE2-6F30-1AD1-5F89-D2D27468AD32}|AdminCRUDTask\\AdminCRUDTask.csproj|solutionrelative:admincrudtask\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 435,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,154 +98,128 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "AdminCRUDTask\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "AdminCRUDTask\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T16:11:50.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "AdminCRUDTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "AdminCRUDTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-05T16:16:05.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AdminCRUDTask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AdminCRUDTask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEwAAAB1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-05T16:16:25.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
               "RelativeDocumentMoniker": "AdminCRUDTask\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
               "RelativeToolTip": "AdminCRUDTask\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-05T17:00:52.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "AdminCRUDTask\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "AdminCRUDTask\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T16:13:31.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
               "RelativeDocumentMoniker": "AdminCRUDTask\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
               "RelativeToolTip": "AdminCRUDTask\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-05T17:07:38.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FileUploadExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Extensions\\FileUploadExtensions.cs",
-              "RelativeDocumentMoniker": "AdminCRUDTask\\Extensions\\FileUploadExtensions.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Extensions\\FileUploadExtensions.cs",
-              "RelativeToolTip": "AdminCRUDTask\\Extensions\\FileUploadExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T07:58:48.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "AdminCRUDTask\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "AdminCRUDTask\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-05T16:11:22.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Slider.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Models\\Slider.cs",
-              "RelativeDocumentMoniker": "AdminCRUDTask\\Models\\Slider.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Models\\Slider.cs",
-              "RelativeToolTip": "AdminCRUDTask\\Models\\Slider.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T16:30:11.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "AdminCRUDTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "AdminCRUDTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T16:13:14.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
               "RelativeDocumentMoniker": "AdminCRUDTask\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
               "RelativeToolTip": "AdminCRUDTask\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-05T17:09:28.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AdminCRUDTask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AdminCRUDTask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEwAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T16:16:25.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "AdminCRUDTask\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Models\\Slider.cs",
+              "RelativeToolTip": "AdminCRUDTask\\Models\\Slider.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T16:30:11.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "AdminCRUDTask\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "AdminCRUDTask\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T16:13:31.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "AdminCRUDTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "AdminCRUDTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T16:16:05.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "AdminCRUDTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "AdminCRUDTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T16:13:14.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AdminCRUDTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AdminCRUDTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T16:16:54.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "AdminCRUDTask.csproj",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\AdminCRUDTask.csproj",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\AdminCRUDTask.csproj",
               "RelativeDocumentMoniker": "AdminCRUDTask\\AdminCRUDTask.csproj",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\AdminCRUDTask.csproj",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\AdminCRUDTask.csproj",
               "RelativeToolTip": "AdminCRUDTask\\AdminCRUDTask.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -254,11 +228,47 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AdminCRUDTask\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AdminCRUDTask\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T16:11:50.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileUploadExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Extensions\\FileUploadExtensions.cs",
+              "RelativeDocumentMoniker": "AdminCRUDTask\\Extensions\\FileUploadExtensions.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Extensions\\FileUploadExtensions.cs",
+              "RelativeToolTip": "AdminCRUDTask\\Extensions\\FileUploadExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T07:58:48.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AdminCRUDTask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AdminCRUDTask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T16:11:22.994Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "AdminCRUDTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "AdminCRUDTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -266,23 +276,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "AdminCRUDTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "AdminCRUDTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-05T16:16:54.716Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Program.cs",
               "RelativeDocumentMoniker": "AdminCRUDTask\\Program.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Program.cs",
               "RelativeToolTip": "AdminCRUDTask\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -292,9 +290,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\appsettings.json",
               "RelativeDocumentMoniker": "AdminCRUDTask\\appsettings.json",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\appsettings.json",
               "RelativeToolTip": "AdminCRUDTask\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -304,9 +302,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "20260505164732_CreatedDatabaseAndSlidersTableCreated.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Migrations\\20260505164732_CreatedDatabaseAndSlidersTableCreated.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Migrations\\20260505164732_CreatedDatabaseAndSlidersTableCreated.cs",
               "RelativeDocumentMoniker": "AdminCRUDTask\\Migrations\\20260505164732_CreatedDatabaseAndSlidersTableCreated.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Migrations\\20260505164732_CreatedDatabaseAndSlidersTableCreated.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Migrations\\20260505164732_CreatedDatabaseAndSlidersTableCreated.cs",
               "RelativeToolTip": "AdminCRUDTask\\Migrations\\20260505164732_CreatedDatabaseAndSlidersTableCreated.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -316,9 +314,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\DAL\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "AdminCRUDTask\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\DAL\\AppDbContext.cs",
               "RelativeToolTip": "AdminCRUDTask\\DAL\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -328,9 +326,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Models\\Base\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Models\\Base\\BaseEntity.cs",
               "RelativeDocumentMoniker": "AdminCRUDTask\\Models\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\Models\\Base\\BaseEntity.cs",
               "RelativeToolTip": "AdminCRUDTask\\Models\\Base\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -340,9 +338,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "AdminCRUDTask\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\AdminCRUDTask\\AdminCRUDTask\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\AdminCRUDTask\\AdminCRUDTask\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "AdminCRUDTask\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",

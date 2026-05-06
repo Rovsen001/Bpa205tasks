@@ -17,7 +17,7 @@ namespace AdminCRUDTask.Areas.Admin.Controllers
         } 
         public IActionResult Index()
         {
-            List<Slider> sliders=_db.Sliders.ToList();
+            List<Slider> sliders = _db.Sliders.ToList();
             return View(sliders);
         }
         public IActionResult Create()
@@ -27,20 +27,23 @@ namespace AdminCRUDTask.Areas.Admin.Controllers
         [HttpPost]
         public IActionResult Create(Slider slider)
         {
-            if (!slider.ImageFile.ContentType.Contains("image/"))
+            if (slider.ImageFile != null)
             {
-                ModelState.AddModelError("ImageFile", "File must be image...");
-                return View();
-            }
-            if(!(slider.ImageFile.Length < 3 * 1024 * 1024))
-            {
-                ModelState.AddModelError("ImageFile", "File size limit is 3MB...");
-                return View();
-            }
-            slider.ImageUrl = slider.ImageFile.SaveImage(_env, "uploads/sliders");
-            if (!ModelState.IsValid) return View();
+                if (!slider.ImageFile.ContentType.Contains("image/"))
+                {
+                    ModelState.AddModelError("ImageFile", "File must be image...");
+                    return View(slider);
+                }
+                if (!(slider.ImageFile.Length < 3 * 1024 * 1024))
+                {
+                    ModelState.AddModelError("ImageFile", "File size limit is 3MB...");
+                    return View(slider);
+                }
+                slider.ImageUrl = slider.ImageFile.SaveImage(_env, "uploads/sliders");
+                if (!ModelState.IsValid) return View(slider);
 
-            _db.Sliders.Add(slider);
+                _db.Sliders.Add(slider);
+            }
             _db.SaveChanges();
             return RedirectToAction(nameof(Index));
         }
@@ -68,11 +71,30 @@ namespace AdminCRUDTask.Areas.Admin.Controllers
         [HttpPost]
         public IActionResult Update(Slider slider)
         {
-            if (!ModelState.IsValid) return View();
+            if (!ModelState.IsValid) return View(slider);
+
             Slider oldSlider = _db.Sliders.Find(slider.Id);
+
             oldSlider.Title = slider.Title;
             oldSlider.Description = slider.Description;
-            oldSlider.ImageUrl = slider.ImageUrl;
+
+            if (slider.ImageFile != null)
+            {
+                if (!slider.ImageFile.ContentType.Contains("image/"))
+                {
+                    ModelState.AddModelError("ImageFile", "File must be image...");
+                    return View(slider);
+                }
+
+                if (!(slider.ImageFile.Length < 3*1024*1024))
+                {
+                    ModelState.AddModelError("ImageFile", "File size limit is 3MB...");
+                    return View(slider);
+                }
+
+                oldSlider.ImageUrl = slider.ImageFile.SaveImage(_env, "uploads/sliders");
+            }
+
             _db.SaveChanges();
             return RedirectToAction(nameof(Index));
         }

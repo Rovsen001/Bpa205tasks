@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdminCRUDTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c6f50d60ebc5bb9c6f201aa96376dad25742b46")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdminCRUDTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdminCRUDTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

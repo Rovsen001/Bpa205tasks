@@ -4,7 +4,7 @@
 
 <div>
     <h1 class="text-primary">Update Slider</h1>
-    <form asp-controller="Slider" asp-action="Update" method="post">
+    <form asp-controller="Slider" asp-action="Update" method="post" enctype="multipart/form-data">
         <div class="mb-3">
             <label for="title" class="form-label">Profession</label>
             <input asp-for="@Model.Title" type="text" class="form-control" id="title" placeholder="Add Title...">
@@ -18,7 +18,7 @@
     
         <div class="mb-3">
             <label for="imgUrl" class="form-label">Image URL</label>
-            <input asp-for="@Model.ImageUrl" type="text" class="form-control" id="imgUrl">
+            <input asp-for="@Model.ImageFile" type="file" class="form-control" id="imgUrl">
             <span class="text-danger" asp-validation-for="@Model.ImageFile"></span>
         </div>
         <button type="submit" class="btn btn-primary">Submit</button>
