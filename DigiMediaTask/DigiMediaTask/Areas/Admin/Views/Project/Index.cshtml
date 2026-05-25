@@ -1,0 +1,63 @@
+﻿@using DigiMediaTask.Models
+@model List<Project>
+<div>
+    <a asp-controller="Project" asp-action="Create" class="btn btn-primary">Add Project</a>
+    <hr />
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Profession</th>
+                <th scope="col">Category</th>
+                <th scope="col">Image</th>
+                <th scope="col">Delete Status</th>
+                <th scope="col">Actions</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Project Project in Model)
+            {
+                <tr>
+                    <th scope="row">@Project.Id</th>
+                    <td>@Project.Profession</td>
+                    <td>@Project.Category</td>
+                    <td><img style="width: 80px; height: 80px" src="/assets/images/@Project.ImageUrl" alt="@Project.Profession"> </td>
+
+                    @{
+                        if (Project.IsDeleted == false)
+                        {
+                            <td class="text-success">Active</td>
+                        }
+                        else
+                        {
+                            <td class="text-danger">Deleted</td>
+                        }
+                    }
+                    <td>
+                        <a asp-controller="Project" asp-action="Update" asp-route-id="@Project.Id" class="btn btn-warning"> Update</a>
+                    </td>
+                    <td>
+
+                        @{
+                            if (Project.IsDeleted == false)
+                            {
+                                <form asp-controller="Project" asp-action="Delete" asp-route-id="@Project.Id" method="post">
+                                    <button class="btn btn-danger">Delete</button>
+                                </form>
+                            }
+                            else
+                            {
+                                <form asp-controller="Project" asp-action="Restore" asp-route-id="@Project.Id" method="post">
+                                    <button class="btn btn-success">Restore</button>
+                                </form>
+                            }
+                        }
+
+
+                </tr>
+   
+            }
+        </tbody>
+    </table>
+</div>

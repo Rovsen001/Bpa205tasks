@@ -1,0 +1,549 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\proniacrudtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\proniacrudtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\areas\\admin\\viewmodels\\product\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\areas\\admin\\viewmodels\\product\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\areas\\admin\\viewmodels\\product\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\areas\\admin\\viewmodels\\product\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\viewmodels\\product\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\viewmodels\\product\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\migrations\\20260510080959_createdatabaseandtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\migrations\\20260510080959_createdatabaseandtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\migrations\\20260511081524_modified.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\migrations\\20260511081524_modified.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\migrations\\20260511075329_imagetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\migrations\\20260511075329_imagetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|c:\\users\\ibrah\\source\\repos\\proniacrudtask\\proniacrudtask\\migrations\\20260511074606_imagetableadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E659DBF-4200-20D5-50FE-C36F910AC23A}|ProniaCRUDTask\\ProniaCRUDTask.csproj|solutionrelative:proniacrudtask\\migrations\\20260511074606_imagetableadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 435,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Areas\\Admin\\ViewModels\\Product\\UpdateProductVM.cs",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Areas\\Admin\\ViewModels\\Product\\UpdateProductVM.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Areas\\Admin\\ViewModels\\Product\\UpdateProductVM.cs",
+              "RelativeToolTip": "ProniaCRUDTask\\Areas\\Admin\\ViewModels\\Product\\UpdateProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T09:39:48.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ProniaCRUDTask\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T08:50:26.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Models\\Product.cs",
+              "RelativeToolTip": "ProniaCRUDTask\\Models\\Product.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T09:11:22.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProniaCRUDTask.csproj",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\ProniaCRUDTask.csproj",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\ProniaCRUDTask.csproj",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\ProniaCRUDTask.csproj",
+              "RelativeToolTip": "ProniaCRUDTask\\ProniaCRUDTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-10T07:21:02.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProniaCRUDTask\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAkwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:30:02.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Areas\\Admin\\ViewModels\\Product\\CreateProductVM.cs",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Areas\\Admin\\ViewModels\\Product\\CreateProductVM.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Areas\\Admin\\ViewModels\\Product\\CreateProductVM.cs",
+              "RelativeToolTip": "ProniaCRUDTask\\Areas\\Admin\\ViewModels\\Product\\CreateProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T09:10:51.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "ProniaCRUDTask\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T08:50:35.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ProniaCRUDTask\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T08:50:14.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProniaCRUDTask\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T07:32:24.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "ProniaCRUDTask\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-10T07:52:31.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\ViewModels\\Product\\ProductVM.cs",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\ViewModels\\Product\\ProductVM.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\ViewModels\\Product\\ProductVM.cs",
+              "RelativeToolTip": "ProniaCRUDTask\\ViewModels\\Product\\ProductVM.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAewAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:30:34.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Program.cs",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Program.cs",
+              "RelativeToolTip": "ProniaCRUDTask\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T07:43:15.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\appsettings.json",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\appsettings.json",
+              "RelativeToolTip": "ProniaCRUDTask\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-10T07:49:16.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "ProniaCRUDTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T08:33:42.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProniaCRUDTask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAswHcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T08:34:52.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProniaCRUDTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-10T07:52:44.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "ProniaCRUDTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:29:14.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "ProniaCRUDTask\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T07:32:53.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProniaCRUDTask\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAAAKsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-10T07:51:54.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProniaCRUDTask\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T08:33:55.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProniaCRUDTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T08:34:06.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProniaCRUDTask\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-10T07:53:13.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20260511081524_modified.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Migrations\\20260511081524_modified.cs",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Migrations\\20260511081524_modified.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Migrations\\20260511081524_modified.cs",
+              "RelativeToolTip": "ProniaCRUDTask\\Migrations\\20260511081524_modified.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:15:24.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Models\\Category.cs",
+              "RelativeToolTip": "ProniaCRUDTask\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T07:29:16.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Models\\Review.cs",
+              "RelativeToolTip": "ProniaCRUDTask\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T07:31:01.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20260511075329_ImageTable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Migrations\\20260511075329_ImageTable.cs",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Migrations\\20260511075329_ImageTable.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Migrations\\20260511075329_ImageTable.cs",
+              "RelativeToolTip": "ProniaCRUDTask\\Migrations\\20260511075329_ImageTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:53:29.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Models\\Tag.cs",
+              "RelativeToolTip": "ProniaCRUDTask\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T07:30:18.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20260511074606_ImageTableAdded.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Migrations\\20260511074606_ImageTableAdded.cs",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Migrations\\20260511074606_ImageTableAdded.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Migrations\\20260511074606_ImageTableAdded.cs",
+              "RelativeToolTip": "ProniaCRUDTask\\Migrations\\20260511074606_ImageTableAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:46:06.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20260510080959_CreateDatabaseAndTables.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Migrations\\20260510080959_CreateDatabaseAndTables.cs",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Migrations\\20260510080959_CreateDatabaseAndTables.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Migrations\\20260510080959_CreateDatabaseAndTables.cs",
+              "RelativeToolTip": "ProniaCRUDTask\\Migrations\\20260510080959_CreateDatabaseAndTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:09:59.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProniaCRUDTask\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-10T07:52:58.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "ProniaCRUDTask\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T07:22:12.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ProniaCRUDTask\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\ProniaCRUDTask\\ProniaCRUDTask\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ProniaCRUDTask\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-10T07:20:44.191Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
