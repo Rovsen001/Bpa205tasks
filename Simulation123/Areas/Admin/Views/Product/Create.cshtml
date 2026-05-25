@@ -1,0 +1,42 @@
+﻿@using Simulation123.Areas.Admin.ViewModels.Product
+
+@model CreateProductVM
+
+<div>
+    <h1 class="text-primary">Add Product</h1>
+    <form asp-controller="Product" asp-action="Create" method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label for="name" class="form-label">Name</label>
+            <input asp-for="@Model.Name" type="text" class="form-control" id="name" placeholder="Add name...">
+                <span class="text-danger" asp-validation-for="@Model.Name"></span>
+            </div>
+            <div class="mb-3">
+                <label for="price" class="form-label">Price</label>
+                <input asp-for="@Model.Price" type="number" class="form-control" id="price"
+                       placeholder="Add price...">
+                    <span class="text-danger" asp-validation-for="@Model.Price"></span>
+                </div>
+                <div class="mb-3">
+                    <label for="description" class="form-label">Description</label>
+                    <input asp-for="@Model.Description" type="text" class="form-control" id="desc" placeholder="Add description...">
+                        <span class="text-danger" asp-validation-for="@Model.Description"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label for="gameid" class="form-label">Game Id</label>
+                        <input asp-for="@Model.GameId" type="text" class="form-control" id="gameid" placeholder="Add game id...">
+                            <span class="text-danger" asp-validation-for="@Model.GameId"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label for="category" class="form-label">Category</label>
+                            <input asp-for="@Model.Category.Name" type="text" class="form-control" id="desc" placeholder="Add category...">
+                                <span class="text-danger" asp-validation-for="@Model.Category.Name"></span>
+                            </div>
+
+                            <div class="mb-3">
+                                <label for="imgUrl" class="form-label">Image</label>
+                                <input asp-for="@Model.ImageFile" type="file" id="imgUrl" />
+                                <span class="text-danger" asp-validation-for="@Model.ImageFile"></span>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Submit</button>
+                        </form>
+                    </div>
