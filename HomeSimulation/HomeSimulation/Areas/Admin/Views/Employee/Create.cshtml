@@ -1,0 +1,38 @@
+﻿@using HomeSimulation.Areas.Admin.ViewModels.Employee
+
+@model CreateEmployeeVM
+
+<div>
+    <h1 class="text-primary">Add Employee</h1>
+    <form asp-controller="Employee" asp-action="Create" method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label for="Name" class="form-label">Name</label>
+            <input asp-for="@Model.Name" type="text" class="form-control" id="Name" placeholder="Add Name...">
+            <span class="text-danger" asp-validation-for="@Model.Name"></span>
+        </div>
+        <div class="mb-3">
+            <label for="Surname" class="form-label">Surname</label>
+            <input asp-for="@Model.Surname" type="text" class="form-control" id="Surname"
+                   placeholder="Add Surname...">
+            <span class="text-danger" asp-validation-for="@Model.Surname"></span>
+        </div>
+        <div class="mb-3">
+            <select asp-for="PositionId" class="form-select" aria-label="Select Postion">
+                <option disabled selected>Select Position</option>
+                @foreach (Position position in ViewBag.Positions)
+                {
+                    if(position.IsDeleted==false){
+                    <option value="@position.Id">@position.Name</option>
+                    }
+                }
+            </select>
+            <span class="text-danger" asp-validation-for="@Model.PositionId"></span>
+        </div>
+        <div class="mb-3">
+            <label for="image" class="form-label">Image</label>
+            <input asp-for="@Model.ImageFile" type="file" id="image" />
+            <span class="text-danger" asp-validation-for="@Model.ImageFile"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
