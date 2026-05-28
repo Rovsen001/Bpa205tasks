@@ -550,7 +550,9 @@
                     {
                         <div class="item col-md-12">
                             <div class="visited-item">
+                                <form asp-controller="Home" asp-action="Details" asp-route-id="@place.Id">
                                 <img src="/uploads/places/@place.ImageUrl" alt="">
+                                </form>
                                 <div class="text-content">
                                     <h4>@place.Name</h4>
                                     <span>@place.City.Name</span>
