@@ -1,12 +1,14 @@
 ﻿using HomeSimulation2.Areas.Admin.ViewModels.City;
 using HomeSimulation2.DAL;
 using HomeSimulation2.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace HomeSimulation2.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "Admin")]
     public class CityController : Controller
     {
         private readonly AppDbContext _db;

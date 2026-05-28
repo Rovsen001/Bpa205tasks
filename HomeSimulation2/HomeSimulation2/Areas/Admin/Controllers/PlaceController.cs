@@ -2,12 +2,14 @@
 using HomeSimulation2.DAL;
 using HomeSimulation2.Models;
 using HomeSimulation2.Utilities.Image;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace HomeSimulation2.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "Admin")]
     public class PlaceController : Controller
     {
         private readonly AppDbContext _db;

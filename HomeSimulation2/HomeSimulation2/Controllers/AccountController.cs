@@ -1,10 +1,12 @@
 ﻿using HomeSimulation2.Models;
 using HomeSimulation2.ViewModels.Account;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
 namespace HomeSimulation2.Controllers
 {
+    [Authorize(Roles ="Admin")]
     public class AccountController : Controller
     {
         private readonly RoleManager<IdentityRole> _roleManager;

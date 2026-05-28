@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HomeSimulation2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c9d2b508ff128761b119ae35163da41544305a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd00ff820d6d234a0241c76fdd5293885dd7014e")]
 [assembly: System.Reflection.AssemblyProductAttribute("HomeSimulation2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HomeSimulation2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
