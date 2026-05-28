@@ -7702,11 +7702,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\HomeSimulation.csproj",
+      "projectUniqueName": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\HomeSimulation.csproj",
       "projectName": "HomeSimulation",
-      "projectPath": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\HomeSimulation.csproj",
+      "projectPath": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\HomeSimulation.csproj",
       "packagesPath": "C:\\Users\\ibrah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\obj\\",
+      "outputPath": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

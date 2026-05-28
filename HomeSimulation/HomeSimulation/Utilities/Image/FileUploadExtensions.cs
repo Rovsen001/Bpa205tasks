@@ -8,7 +8,7 @@
             string filename=Guid.NewGuid().ToString()+file.FileName;
             string fullpath=Path.Combine(path,filename);
 
-            using(FileStream stream =new FileStream(path, FileMode.Create))
+            using(FileStream stream =new FileStream(fullpath, FileMode.Create))
             {
                 file.CopyTo(stream);
             }

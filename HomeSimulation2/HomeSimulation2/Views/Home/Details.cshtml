@@ -1,0 +1,13 @@
+﻿@model Place
+<h1>@Model.Name</h1>
+<div>
+    <p>Name:</p><p>@Model.Name</p></div>
+<div>
+    <P>FullAdress:</p><p>@Model.FullAdress</p>
+</div>
+<div>
+    <P>City:</p><p>@Model.City.Name</p>
+</div>
+<div>
+    <P>Image:</p><img src="/uploads/places/@Model.ImageUrl"/>
+</div>

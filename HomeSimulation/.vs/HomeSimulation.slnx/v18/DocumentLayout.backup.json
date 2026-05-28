@@ -1,161 +1,161 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\",
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\areas\\admin\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\areas\\admin\\views\\position\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\views\\position\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\areas\\admin\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\areas\\admin\\viewmodels\\employee\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\viewmodels\\employee\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\areas\\admin\\viewmodels\\employee\\updateemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\viewmodels\\employee\\updateemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\areas\\admin\\viewmodels\\position\\updatepositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\viewmodels\\position\\updatepositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\areas\\admin\\viewmodels\\position\\createpositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\viewmodels\\position\\createpositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\utilities\\image\\fileuploadextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\utilities\\image\\fileuploadextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\utilities\\image\\fileuploadextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\migrations\\20260527125516_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\migrations\\20260527125516_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\areas\\admin\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\areas\\admin\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\homesimulation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\homesimulation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\homesimulation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\source\\repos\\homesimulation\\homesimulation\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\areas\\admin\\views\\position\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\views\\position\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\areas\\admin\\viewmodels\\employee\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\viewmodels\\employee\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\areas\\admin\\viewmodels\\employee\\updateemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\viewmodels\\employee\\updateemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\areas\\admin\\viewmodels\\position\\updatepositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\viewmodels\\position\\updatepositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\areas\\admin\\viewmodels\\position\\createpositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\areas\\admin\\viewmodels\\position\\createpositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\migrations\\20260527125516_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\migrations\\20260527125516_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation\\homesimulation\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{E3B5D634-6DC8-1962-19E2-FA921D78E98B}|HomeSimulation\\HomeSimulation.csproj|solutionrelative:homesimulation\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -166,7 +166,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 435,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -174,206 +174,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "HomeSimulation\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "HomeSimulation\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAgwFEAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T11:48:21.188Z",
-              "EditorCaption": ""
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-27T12:35:12.766Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T12:35:56.68Z",
-              "EditorCaption": ""
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwCwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-27T20:36:52.512Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T12:37:04.188Z",
-              "EditorCaption": ""
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-27T20:58:47.49Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PositionController.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Controllers\\PositionController.cs",
-              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\Controllers\\PositionController.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Controllers\\PositionController.cs",
-              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\Controllers\\PositionController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T12:38:26.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Program.cs",
-              "RelativeDocumentMoniker": "HomeSimulation\\Program.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Program.cs",
-              "RelativeToolTip": "HomeSimulation\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T12:07:06.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "HomeSimulation\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "HomeSimulation\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAEMAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-27T11:39:51.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "HomeSimulation\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "HomeSimulation\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-27T12:30:16.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "HomeSimulation\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "HomeSimulation\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-27T12:30:09.022Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RegisterVM.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\ViewModels\\Account\\RegisterVM.cs",
-              "RelativeDocumentMoniker": "HomeSimulation\\ViewModels\\Account\\RegisterVM.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\ViewModels\\Account\\RegisterVM.cs",
-              "RelativeToolTip": "HomeSimulation\\ViewModels\\Account\\RegisterVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T11:54:07.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
-              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
-              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-27T20:58:47.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
-              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-27T20:36:52.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Views\\Home\\Details.cshtml",
-              "RelativeDocumentMoniker": "HomeSimulation\\Views\\Home\\Details.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Views\\Home\\Details.cshtml",
-              "RelativeToolTip": "HomeSimulation\\Views\\Home\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-27T12:31:41.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Position\\Index.cshtml",
               "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\Views\\Position\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Position\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Position\\Index.cshtml",
               "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\Views\\Position\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwCMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-27T20:59:29.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-27T20:59:29.489Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Position\\Update.cshtml",
-              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\Views\\Position\\Update.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Position\\Update.cshtml",
-              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\Views\\Position\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-27T20:59:45.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
-              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
-              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-27T20:59:10.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Position\\Create.cshtml",
               "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\Views\\Position\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Position\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Position\\Create.cshtml",
               "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\Views\\Position\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -382,193 +235,168 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-27T12:35:12.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAACIAAAAAAAAAAAAWwDwAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-27T12:39:09.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "HomeSimulation\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "HomeSimulation\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAMsCAAAAAAAAAAAcwOICAAB4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-27T11:38:47.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "HomeSimulation\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "HomeSimulation\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T11:30:08.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAiwNkAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-27T12:33:59.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-27T12:34:14.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "HomeSimulation\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Models\\Employee.cs",
-              "RelativeToolTip": "HomeSimulation\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T11:35:21.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CreateEmployeeVM.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\ViewModels\\Employee\\CreateEmployeeVM.cs",
-              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\ViewModels\\Employee\\CreateEmployeeVM.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\ViewModels\\Employee\\CreateEmployeeVM.cs",
-              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\ViewModels\\Employee\\CreateEmployeeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T12:49:42.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "UpdateEmployeeVM.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
-              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
-              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T12:50:39.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "UpdatePositionVM.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\ViewModels\\Position\\UpdatePositionVM.cs",
-              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\ViewModels\\Position\\UpdatePositionVM.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\ViewModels\\Position\\UpdatePositionVM.cs",
-              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\ViewModels\\Position\\UpdatePositionVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T12:51:00.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "CreatePositionVM.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\ViewModels\\Position\\CreatePositionVM.cs",
-              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\ViewModels\\Position\\CreatePositionVM.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\ViewModels\\Position\\CreatePositionVM.cs",
-              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\ViewModels\\Position\\CreatePositionVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T12:51:17.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Position.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Models\\Position.cs",
-              "RelativeDocumentMoniker": "HomeSimulation\\Models\\Position.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Models\\Position.cs",
-              "RelativeToolTip": "HomeSimulation\\Models\\Position.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T11:37:17.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 0,
               "Title": "FileUploadExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Utilities\\Image\\FileUploadExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Utilities\\Image\\FileUploadExtensions.cs",
               "RelativeDocumentMoniker": "HomeSimulation\\Utilities\\Image\\FileUploadExtensions.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Utilities\\Image\\FileUploadExtensions.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Utilities\\Image\\FileUploadExtensions.cs",
               "RelativeToolTip": "HomeSimulation\\Utilities\\Image\\FileUploadExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-27T11:54:53.519Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "20260527125516_init.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Migrations\\20260527125516_init.cs",
-              "RelativeDocumentMoniker": "HomeSimulation\\Migrations\\20260527125516_init.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Migrations\\20260527125516_init.cs",
-              "RelativeToolTip": "HomeSimulation\\Migrations\\20260527125516_init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T12:55:16.162Z",
-              "EditorCaption": ""
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAiwMkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-27T12:33:59.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAACAAAAAAAAAAAiwB0CAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-27T12:39:09.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PositionController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T12:38:26.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T12:37:04.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T12:35:56.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "HomeSimulation\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "HomeSimulation\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T11:48:21.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HomeSimulation\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HomeSimulation\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T11:30:08.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "HomeSimulation\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "HomeSimulation\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-27T12:31:41.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "HomeSimulation\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "HomeSimulation\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-27T12:30:09.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "HomeSimulation\\ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "HomeSimulation\\ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T11:54:17.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "HomeSimulation\\ViewModels\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "HomeSimulation\\ViewModels\\Account\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T11:54:07.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "HomeSimulation\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "HomeSimulation\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-27T12:30:16.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "HomeSimulation\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "HomeSimulation\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -576,83 +404,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "LoginVM.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\ViewModels\\Account\\LoginVM.cs",
-              "RelativeDocumentMoniker": "HomeSimulation\\ViewModels\\Account\\LoginVM.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\ViewModels\\Account\\LoginVM.cs",
-              "RelativeToolTip": "HomeSimulation\\ViewModels\\Account\\LoginVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Program.cs",
+              "RelativeDocumentMoniker": "HomeSimulation\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Program.cs",
+              "RelativeToolTip": "HomeSimulation\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T11:54:17.678Z"
+              "WhenOpened": "2026-05-27T12:07:06.077Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "HomeSimulation\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "HomeSimulation\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T11:32:41.029Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "HomeSimulation\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "HomeSimulation\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-27T11:41:09.484Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\appsettings.json",
               "RelativeDocumentMoniker": "HomeSimulation\\appsettings.json",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\appsettings.json",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\appsettings.json",
               "RelativeToolTip": "HomeSimulation\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-05-27T12:04:17.433Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "HomeSimulation\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Models\\AppUser.cs",
-              "RelativeToolTip": "HomeSimulation\\Models\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T11:43:24.762Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Models\\Base\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "HomeSimulation\\Models\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\Models\\Base\\BaseEntity.cs",
-              "RelativeToolTip": "HomeSimulation\\Models\\Base\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T11:35:30.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 21,
               "Title": "HomeSimulation.csproj",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\HomeSimulation.csproj",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\HomeSimulation.csproj",
               "RelativeDocumentMoniker": "HomeSimulation\\HomeSimulation.csproj",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\HomeSimulation.csproj",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\HomeSimulation.csproj",
               "RelativeToolTip": "HomeSimulation\\HomeSimulation.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -660,11 +440,203 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HomeSimulation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HomeSimulation\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-27T11:39:51.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Position\\Update.cshtml",
+              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\Views\\Position\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Position\\Update.cshtml",
+              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\Views\\Position\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-27T20:59:45.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-27T20:59:10.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HomeSimulation\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HomeSimulation\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAMsCAAAAAAAAAAAcwOICAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-27T11:38:47.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-27T12:34:14.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "HomeSimulation\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Models\\Employee.cs",
+              "RelativeToolTip": "HomeSimulation\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T11:35:21.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateEmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T12:49:42.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UpdateEmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T12:50:39.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UpdatePositionVM.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\ViewModels\\Position\\UpdatePositionVM.cs",
+              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\ViewModels\\Position\\UpdatePositionVM.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\ViewModels\\Position\\UpdatePositionVM.cs",
+              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\ViewModels\\Position\\UpdatePositionVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T12:51:00.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreatePositionVM.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\ViewModels\\Position\\CreatePositionVM.cs",
+              "RelativeDocumentMoniker": "HomeSimulation\\Areas\\Admin\\ViewModels\\Position\\CreatePositionVM.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Areas\\Admin\\ViewModels\\Position\\CreatePositionVM.cs",
+              "RelativeToolTip": "HomeSimulation\\Areas\\Admin\\ViewModels\\Position\\CreatePositionVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T12:51:17.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "HomeSimulation\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Models\\Position.cs",
+              "RelativeToolTip": "HomeSimulation\\Models\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T11:37:17.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20260527125516_init.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Migrations\\20260527125516_init.cs",
+              "RelativeDocumentMoniker": "HomeSimulation\\Migrations\\20260527125516_init.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Migrations\\20260527125516_init.cs",
+              "RelativeToolTip": "HomeSimulation\\Migrations\\20260527125516_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T12:55:16.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HomeSimulation\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "HomeSimulation\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T11:32:41.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "HomeSimulation\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "HomeSimulation\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-27T11:41:09.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "HomeSimulation\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Models\\AppUser.cs",
+              "RelativeToolTip": "HomeSimulation\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T11:43:24.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "HomeSimulation\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "HomeSimulation\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T11:35:30.326Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 38,
               "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "HomeSimulation\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\HomeSimulation\\HomeSimulation\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation\\HomeSimulation\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "HomeSimulation\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
