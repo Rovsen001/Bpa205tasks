@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6DBBEE13-AFE9-67A7-622D-80248988CECE}|HomeSimulation2\\HomeSimulation2.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation2\\homesimulation2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBBEE13-AFE9-67A7-622D-80248988CECE}|HomeSimulation2\\HomeSimulation2.csproj|solutionrelative:homesimulation2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6DBBEE13-AFE9-67A7-622D-80248988CECE}|HomeSimulation2\\HomeSimulation2.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation2\\homesimulation2\\areas\\admin\\controllers\\placecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DBBEE13-AFE9-67A7-622D-80248988CECE}|HomeSimulation2\\HomeSimulation2.csproj|solutionrelative:homesimulation2\\areas\\admin\\controllers\\placecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6DBBEE13-AFE9-67A7-622D-80248988CECE}|HomeSimulation2\\HomeSimulation2.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation2\\homesimulation2\\areas\\admin\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DBBEE13-AFE9-67A7-622D-80248988CECE}|HomeSimulation2\\HomeSimulation2.csproj|solutionrelative:homesimulation2\\areas\\admin\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DBBEE13-AFE9-67A7-622D-80248988CECE}|HomeSimulation2\\HomeSimulation2.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation2\\homesimulation2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DBBEE13-AFE9-67A7-622D-80248988CECE}|HomeSimulation2\\HomeSimulation2.csproj|solutionrelative:homesimulation2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DBBEE13-AFE9-67A7-622D-80248988CECE}|HomeSimulation2\\HomeSimulation2.csproj|c:\\users\\ibrah\\desktop\\bpatasks\\bpa205tasks\\homesimulation2\\homesimulation2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -169,7 +169,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 435,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -177,13 +177,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation2\\HomeSimulation2\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "HomeSimulation2\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation2\\HomeSimulation2\\Controllers\\AccountController.cs",
               "RelativeToolTip": "HomeSimulation2\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-28T10:24:25.96Z",
               "EditorCaption": ""
@@ -198,12 +198,11 @@
               "RelativeToolTip": "HomeSimulation2\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T10:24:12.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T10:24:12.611Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CityController.cs",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation2\\HomeSimulation2\\Areas\\Admin\\Controllers\\CityController.cs",
               "RelativeDocumentMoniker": "HomeSimulation2\\Areas\\Admin\\Controllers\\CityController.cs",
@@ -211,12 +210,11 @@
               "RelativeToolTip": "HomeSimulation2\\Areas\\Admin\\Controllers\\CityController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T10:30:02.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T10:30:02.567Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation2\\HomeSimulation2\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "HomeSimulation2\\Areas\\Admin\\Controllers\\DashboardController.cs",
@@ -224,12 +222,11 @@
               "RelativeToolTip": "HomeSimulation2\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T10:29:42.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T10:29:42.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PlaceController.cs",
               "DocumentMoniker": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\HomeSimulation2\\HomeSimulation2\\Areas\\Admin\\Controllers\\PlaceController.cs",
               "RelativeDocumentMoniker": "HomeSimulation2\\Areas\\Admin\\Controllers\\PlaceController.cs",
@@ -250,8 +247,7 @@
               "RelativeToolTip": "HomeSimulation2\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-28T10:23:09.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T10:23:09.497Z"
             },
             {
               "$type": "Document",

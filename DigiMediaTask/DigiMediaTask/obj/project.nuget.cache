@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SG7d3sc4rn4=",
+  "dgSpecHash": "deczqENrncU=",
   "success": true,
   "projectFilePath": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\DigiMediaTask\\DigiMediaTask\\DigiMediaTask.csproj",
   "expectedPackageFiles": [
@@ -160,15 +160,5 @@
     "C:\\Users\\ibrah\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
     "C:\\Users\\ibrah\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
-      "projectPath": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\DigiMediaTask\\DigiMediaTask\\DigiMediaTask.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\ibrah\\Desktop\\BpaTasks\\Bpa205tasks\\DigiMediaTask\\DigiMediaTask\\DigiMediaTask.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }
