@@ -1,0 +1,25 @@
+﻿@using HomeSimulation4.ViewModels.Account
+
+@model LoginVM
+<form asp-controller="Account" asp-action="Login" method="post">
+
+    <div class="col-md-12">
+        <label>Email Address*</label>
+        <input asp-for="@Model.Email" type="email" placeholder="Email Address" />
+        <span class="text-danger" asp-validation-for="@Model.Email"></span>
+    </div>
+    <div class="col-md-6">
+        <label>Password</label>
+        <input asp-for="@Model.Password" type="password" placeholder="Password" />
+        <span class="text-danger" asp-validation-for="@Model.Password"></span>
+    </div>
+    <div class="col-12">
+        <button type="submit" class="btn btn-custom-size lg-size btn-primary">
+            Login
+        </button>
+    </div>
+    <div class="col-12 d-flex">
+        <p>Don't you have an account?</p>
+        <a asp-controller="Account" asp-action="Register">Register</a>
+    </div>
+</form>
