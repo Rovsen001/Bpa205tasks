@@ -1,0 +1,66 @@
+﻿@model List<Place>
+
+<div>
+    <a asp-controller="Place" asp-action="Create" class="btn btn-primary">Add Place</a>
+    <hr />
+    <table class="table table-bordered border-primary">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Name</th>
+                <th scope="col">Full Adress</th>
+                <th scope="col">City</th>
+                <th scope="col">Image</th>
+                <th scope="col">Deleted Status</th>
+                <th colspan="2">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (Place place in Model)
+            {
+                <tr>
+                    <th scope="row">@place.Id</th>
+                    <td>@place.Name</td>
+                    <td>@place.FullAdress</td>
+                    <td>@place.City.Name</td>
+                    <td>
+                        <img width="50px" height="50px"
+                             src="/uploads/places/@place.ImageUrl" />
+                    </td>
+                    <td>
+                        <td>
+                            @if (!place.IsDeleted)
+                            {
+                                <span class="text-success">Active</span>
+                            }
+                            else
+                            {
+                                <span class="text-danger">Inactive</span>
+                            }
+                        </td>
+                        <td>
+                            <a class="btn btn-warning" asp-controller="Place" asp-action="Update"
+                               asp-route-id="@place.Id">Update</a>
+                        </td>
+                        @if (!place.IsDeleted)
+                        {
+                            <td>
+                                <form asp-controller="Place" asp-action="Delete" asp-route-id="@place.Id">
+                                    <button type="submit" class="btn btn-danger">Delete</button>
+                                </form>
+                            </td>
+                        }
+                        else
+                        {
+                            <td>
+                                <form asp-controller="Place" asp-action="Restore" asp-route-id="@place.Id">
+                                    <button type="submit" class="btn btn-success">Restore</button>
+                                </form>
+                            </td>
+                        }
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>

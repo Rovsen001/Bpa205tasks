@@ -1,0 +1,66 @@
+﻿@model List<Employee> 
+
+<div>
+    <a asp-controller="Employee" asp-action="Create" class="btn btn-primary">Add Employee</a>
+    <hr />
+    <table class="table table-bordered border-primary">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Name</th>
+                <th scope="col">Surname</th>
+                <th scope="col">Position</th>
+                <th scope="col">Image</th>
+                <th scope="col">Deleted Status</th>
+                <th colspan="2">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (Employee employee in Model)
+            {
+                <tr>
+                    <th scope="row">@employee.Id</th>
+                    <td>@employee.Name</td>
+                    <td>@employee.Surname</td>
+                    <td>@employee.Position.Name</td>
+                    <td>
+                        <img width="50px" height="50px"
+                             src="/uploads/employees/@employee.ImageUrl" />
+                    </td>
+                    <td>
+                        <td>
+                            @if (!employee.IsDeleted)
+                            {
+                                <span class="text-success">Active</span>
+                            }
+                            else
+                            {
+                                <span class="text-danger">Inactive</span>
+                            }
+                        </td>
+                        <td>
+                            <a class="btn btn-warning" asp-controller="Employee" asp-action="Update"
+                               asp-route-id="@employee.Id">Update</a>
+                        </td>
+                        @if (!employee.IsDeleted)
+                        {
+                            <td>
+                                <form asp-controller="Employee" asp-action="Delete" asp-route-id="@employee.Id">
+                                    <button type="submit" class="btn btn-danger">Delete</button>
+                                </form>
+                            </td>
+                        }
+                        else
+                        {
+                            <td>
+                                <form asp-controller="Employee" asp-action="Restore" asp-route-id="@employee.Id">
+                                    <button type="submit" class="btn btn-success">Restore</button>
+                                </form>
+                            </td>
+                        }
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>

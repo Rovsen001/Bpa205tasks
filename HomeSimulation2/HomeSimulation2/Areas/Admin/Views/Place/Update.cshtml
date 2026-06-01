@@ -1,0 +1,39 @@
+﻿@using HomeSimulation2.Areas.Admin.ViewModels.Place
+
+@model UpdatePlaceVM
+
+<div>
+    <h1 class="text-primary">Update Place</h1>
+    <form asp-controller="Place" asp-action="Update" method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label for="Name" class="form-label">Name</label>
+            <input asp-for="@Model.Name" type="text" class="form-control" id="Name" placeholder="Add Name...">
+            <span class="text-danger" asp-validation-for="@Model.Name"></span>
+        </div>
+        <div class="mb-3">
+            <label for="FullAdress" class="form-label">FullAdress</label>
+            <input asp-for="@Model.FullAdress" type="text" class="form-control" id="FullAdress"
+                   placeholder="Add Full Adress...">
+            <span class="text-danger" asp-validation-for="@Model.FullAdress"></span>
+        </div>
+        <div class="mb-3">
+            <select asp-for="CityId" class="form-select" aria-label="Select City">
+                <option disabled selected>Select Position</option>
+                @foreach (City position in ViewBag.Positions)
+                {
+                    if (position.IsDeleted == false)
+                    {
+                        <option value="@position.Id">@position.Name</option>
+                    }
+                }
+            </select>
+            <span class="text-danger" asp-validation-for="@Model.CityId"></span>
+        </div>
+        <div class="mb-3">
+            <label for="image" class="form-label">Image</label>
+            <input asp-for="@Model.ImageFile" type="file" id="image" />
+            <span class="text-danger" asp-validation-for="@Model.ImageFile"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

@@ -1,0 +1,57 @@
+﻿@model List<City>
+
+<div>
+    <a asp-controller="City" asp-action="Create" class="btn btn-primary">Add city</a>
+    <hr />
+    <table class="table table-bordered border-primary">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Name</th>
+                <th scope="col">Deleted Status</th>
+                <th colspan="2">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (City city in Model)
+            {
+                <tr>
+                    <th scope="row">@city.Id</th>
+                    <td>@city.Name</td>
+                    <td>
+                        <td>
+                            @if (!city.IsDeleted)
+                            {
+                                <span class="text-success">Active</span>
+                            }
+                            else
+                            {
+                                <span class="text-danger">Inactive</span>
+                            }
+                        </td>
+                        <td>
+                            <a class="btn btn-warning" asp-controller="City" asp-action="Update"
+                               asp-route-id="@city.Id">Update</a>
+                        </td>
+                        @if (!city.IsDeleted)
+                        {
+                            <td>
+                                <form asp-controller="City" asp-action="Delete" asp-route-id="@city.Id">
+                                    <button type="submit" class="btn btn-danger">Delete</button>
+                                </form>
+                            </td>
+                        }
+                        else
+                        {
+                            <td>
+                                <form asp-controller="City" asp-action="Restore" asp-route-id="@city.Id">
+                                    <button type="submit" class="btn btn-success">Restore</button>
+                                </form>
+                            </td>
+                        }
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
