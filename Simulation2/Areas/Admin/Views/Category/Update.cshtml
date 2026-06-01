@@ -1,0 +1,13 @@
+﻿@using Simulation2.Areas.Admin.ViewModels.Category
+@model UpdateCategoryVM
+<div>
+    <h1 class="text-primary">Update Category</h1>
+    <form asp-controller="Category" asp-action="Update" method="post">
+        <div class="mb-3">
+            <label for="Name" class="form-label">Name</label>
+            <input asp-for="@Model.Name" type="text" class="form-control" id="Name" aria-describedby="Name">
+                <span class="text-danger" asp-validation-for="@Model.Name"></span>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>

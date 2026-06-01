@@ -1,0 +1,17 @@
+﻿@model LoginVM
+<div>
+    <h1 class="text-primary">Login</h1>
+    <form asp-controller="Crypto" asp-action="Create" method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label for="Email" class="form-label">Email</label>
+            <input asp-for="@Model.Email" type="text" class="form-control" id="Email" aria-describedby="Email">
+                <span class="text-danger" asp-validation-for="@Model.Email"></span>
+            </div>
+            <div class="mb-3">
+                <label for="Password" class="form-label">Password</label>
+                <input asp-for="@Model.Password" type="text" class="form-control" id="Password" aria-describedby="Password">
+                    <span class="text-danger" asp-validation-for="@Model.Password"></span>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>

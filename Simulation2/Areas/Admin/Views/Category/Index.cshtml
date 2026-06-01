@@ -1,0 +1,51 @@
+﻿@model List<Category>
+<div>
+    <h1 class="text-primary">Categories</h1>
+    <a asp-controller="Category" asp-action="Create" class="btn btn-primary">Add Category</a>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Status</th>
+                <th scope="col">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Category category in Model)
+            {
+                <tr>
+                    <th scope="row">@category.Id</th>
+                    <td>@category.Name</td>
+                    <td>
+                        @if (!category.IsDeleted)
+                        {
+                            <p class="text-success">Active</p>
+                        }
+                        else
+                        {
+                            <p class="text-danger">Inactive</p>
+                        }
+                    </td>
+                    <td>
+                        <a asp-controller="category" asp-action="Update" asp-route-id="@category.Id" class="btn btn-warning">Update</a>
+                    </td>
+                    <td>
+                        @if (!category.IsDeleted)
+                        {
+                            <form asp-controller="category" asp-action="Delete" asp-route-id="@category.Id" method="post">
+                                <button class="btn btn-danger">Delete</button>
+                            </form>
+                        }
+                        else
+                        {
+                            <form asp-controller="category" asp-action="Restore" asp-route-id="@category.Id" method="post">
+                                <button class="btn btn-success">Restore</button>
+                            </form>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,39 @@
+﻿@using Simulation2.Areas.Admin.ViewModels.Crypto
+@model UpdateCryptoVM
+<div>
+    <h1 class="text-primary">Update Crypto</h1>
+    <form asp-controller="Crypto" asp-action="Update" method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label for="Name" class="form-label">Name</label>
+            <input asp-for="@Model.Name" type="text" class="form-control" id="Name" aria-describedby="Name">
+                <span class="text-danger" asp-validation-for="@Model.Name"></span>
+            </div>
+            <div class="mb-3">
+                <label for="Price" class="form-label">Price</label>
+                <input asp-for="@Model.Price" type="number" class="form-control" id="Price">
+                    <span class="text-danger" asp-validation-for="@Model.Price"></span>
+                </div>
+                <div class="mb-3">
+                    <label for="Description" class="form-label">Description</label>
+                    <input asp-for="@Model.Description" type="text" class="form-control" id="Description">
+                        <span class="text-danger" asp-validation-for="@Model.Description"></span>
+                    </div>
+                    <div class="input-group mb-3">
+                        @foreach (Category category in ViewBag.Categories)
+                        {
+                            <label class="input-group-text" for="Categories">Categories</label>
+                            <select asp-for="@Model.CategoryId" class="form-select" id="Categories">
+                                <option selected disabled>Choose...</option>
+                                <option value="@category.Id">@category.Name</option>
+                            </select>
+                        }
+                        <span class="text-danger" asp-validation-for="@Model.CategoryId"></span>
+                    </div>
+                    <div class="input-group mb-3">
+                        <label class="input-group-text" for="inputGroupFile01">Upload</label>
+                        <input asp-for="@Model.ImageFile" type="file" class="form-control" id="inputGroupFile01">
+                            <span class="text-danger" asp-validation-for="@Model.ImageFile"></span>
+                    </div>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </form>
+                </div>
