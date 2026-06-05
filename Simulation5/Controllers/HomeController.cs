@@ -1,0 +1,26 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Simulation5.DAL;
+using Simulation5.Models;
+
+namespace Simulation5.Controllers
+{
+    public class HomeController : Controller
+    {
+        private readonly AppDbContext _db;
+        public HomeController(AppDbContext db)
+        {
+            _db = db;
+        }
+        public async Task<IActionResult> Index()
+        {
+            List<Member> members = await _db.Members.Include(m => m.Position).ToListAsync();
+            return View(members);
+        }
+        public async Task<IActionResult> Detail(int? id)
+        {
+            Member member = await _db.Members.Include(m => m.Position).FirstOrDefaultAsync(m=>m.Id==id);
+            return View(member);
+        }
+    }
+}
