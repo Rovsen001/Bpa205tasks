@@ -1,0 +1,16 @@
+﻿@model LoginVM
+<div>
+    <form asp-controller="Account" asp-action="Login" method="post">
+        <div class="mb-3">
+            <label for="Email" class="form-label">Email</label>
+            <input asp-for="@Model.Email" type="text" class="form-control" id="Email">
+            <span class="text-danger" asp-validation-for="@Model.Email"></span>
+        </div>
+        <div class="mb-3">
+            <label for="Password" class="form-label">Password</label>
+            <input asp-for="@Model.Password" type="text" class="form-control" id="Password">
+            <span class="text-danger" asp-validation-for="@Model.Password"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
